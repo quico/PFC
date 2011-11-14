@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Identificacion</title>
+        
+        <!-- libs -->
+        <script src="./lib/zepto.js"></script>
+        <script src="./lib/underscore.js"></script>
+        <script src="./lib/backbone.js"></script>
+        <script src="./lib/mustache.js"></script>
+        <script src="./lib/ICanHaz.js"></script>
+        <script src="./lib/store.js"></script>
+        <script src="./lib/mock.js"></script>
+        
+        <!-- utils -->
+        <script src="./utils/conector.js"></script>
+        
+        <script src="./model/identificacion.js"></script>
+        <script src="./collection/identificacion.js"></script>
+        <script src="./view/identificacion.js"></script>
+        
+        
+        <!-- Templates
+        <script id="ident" type="text/html">
+            <button id="add-xxx">Add xxx</button>
+            <ul id="xxxs-list"></ul>
+        </script>
+        -->
+        
+        <script>    
+            $(document).ready(function() {
+                // put all your jQuery goodness in here.
+                idview = new IdentificationView();
+                $('body').append(idview.render().el);
+            });
+        </script>
+
+    </head>
+    <body>
+
+    </body>
+</html>
+
