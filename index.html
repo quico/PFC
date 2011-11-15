@@ -5,9 +5,11 @@
         
         <!-- libs -->
         <script src="./lib/zepto.js"></script>
+        <!-- <script src="./lib/jquery.js"></script> -->
         <script src="./lib/underscore.js"></script>
         <script src="./lib/backbone.js"></script>
         <script src="./lib/mustache.js"></script>
+        <!-- <script src="./lib/ICanHaz.js"></script> -->
         <script src="./lib/store.js"></script>
         <script src="./lib/mock.js"></script>
         
@@ -24,14 +26,25 @@
         
         
         <!-- Templates
-        <script id="ident" type="text/html">
-            <button id="add-xxx">Add xxx</button>
-            <ul id="xxxs-list"></ul>
+        <script id="Identificacion" type="text/html">
+            <p id="sesion"></p>
+            <table>
+                <tr>
+                    <td>Usuario</td>
+                    <td><input type="text" name="user" id="user" value="{{ user }}" size="15" maxlength="30"></td>
+                    </tr>
+                <tr>
+                    <td>Password</td>
+                    <td><input type="text" name="psw" id="psw" value="{{ password }}" size="15" maxlength="30"></td>
+                </tr>
+            </table>
+            <button id="identificationbt">Submit</button>
         </script>
         -->
-        
+
         <script>    
             $(document).ready(function() {
+                //ich.grabTemplates();
                 var app_router = new AppRouter;
                 Backbone.history.start();
             });

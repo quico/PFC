@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DCP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>382000000034260</Id>
+  <Cod>PDBF</Cod>
+  <Nom>Cartagena de Indias</Nom>
+  <Desc>EL VIAJE INCLUYE: Billete de avión en línea regular clase turista, traslados y visita de la ciudad en servicio regular, 6 noches de estancia en el hotel de su elección con desayuno incluido y seguro y material de viaje.</Desc>
+  <DesCor>EL VIAJE INCLUYE: Billete de avión en línea regular clase turista, traslados y visita de la ciudad en servicio regular, 6 noches de estancia en el hotel de su elección con desayuno incluido y seguro y material de viaje.</DesCor>
+  <DesLar>PROGRAMA:
+Día 1º España / Bogotá /Cartagena de Indias
+   Salida en vuelo regular con destino Cartagena de Indias vía Bogotá. Llegada, asistencia y traslado al hotel. Alojamiento.
+Día 2º Cartagena de Indias
+   Desayuno. Visita de la ciudad amurallada, en la que conocerán la Torre del Reloj, El Fuerte San Felipe y finalmente el Convento del Popa. Resto de la tarde libre. Alojamiento.
+Días 3º al 6º Cartagena de Indias
+   Desayuno. Día libres, que podrán aprovechar para realizar alguna visita opcional para profundizar en su conocimiento de la ciudad o recorrer sus alrededores. Alojamiento.
+Día 7º Cartagena de Indias / Bogotá / España
+   Desayuno. A la hora indicada, traslado al aeropuerto y salida en vuelo con destino España, vía Bogotá. Noche a bordo.
+Día 8º España
+   Llegada y fin de nuestros servicios.
+   
+HOTELES PREVISTOS:
+   Casa del Curato                 Turista
+   La Merced                           Lujo
+   Sofitel Santa Clara             Lujo
+   Boutique Anandá                Lujo
+   Capilla del Mar                   Turista Superior
+   Caribe Cartagena               Primera
+   Cartagena Hilton Resort    Lujo
+   Las Américas Resort         Primera Superior </DesLar>
+  <Est>true</Est>
+  <Ect>false</Ect>
+  <Sto>true</Sto>
+  <Sts>false</Sts>
+  <St1>false</St1>
+  <St2>false</St2>
+  <St3>false</St3>
+  <St4>false</St4>
+  <Alc>true</Alc>
+  <Subz>false</Subz>
+  <UrlFot>http://www.barceloviajes.com/images/BV/imagenes/cartagenadeindias/cartagenadeindias_01.jpg</UrlFot>
+  <UrlFla>http://pb2capip.iberojet.es/contenidos/destinos</UrlFla>
+  <Nde>1</Nde>
+  <SalIni>2011-11-05T00:00:00</SalIni>
+  <SalFin>2011-11-30T00:00:00</SalFin>
+  <SalVal>XXXXXXXXXXXXXXXXXXXXXXXXXX</SalVal>
+  <OriFic>false</OriFic>
+  <Folletos>
+    <Folleto>
+      <Cod>11KAM</Cod>
+      <Nom>AMERICA KIRUNNA 2011/2012</Nom>
+      <Prv>TRM</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-04T00:13:18</Act>
+    </Folleto>
+  </Folletos>
+  <Destinos>
+    <Destino>
+      <Cod>DBF</Cod>
+      <Nom>Cartagena de Indias</Nom>
+      <Est>true</Est>
+      <Noc>00000XXXXXXXXXXXXXXXXXXX000000000000000000000000000000000000000000000000000000000000000000</Noc>
+      <NocDft>6</NocDft>
+      <SubZonas>
+        <SubZona>
+          <Cod>01</Cod>
+          <Nom>Cartagena de Indias VVT(vitra)</Nom>
+        </SubZona>
+      </SubZonas>
+    </Destino>
+  </Destinos>
+  <Origenes>
+    <Origen>
+      <Cod>ACE</Cod>
+      <Nom>Lanzarote</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>AGP</Cod>
+      <Nom>Málaga</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>ALC</Cod>
+      <Nom>Alicante</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>BCN</Cod>
+      <Nom>Barcelona</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>BIO</Cod>
+      <Nom>Bilbao</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>BJZ</Cod>
+      <Nom>Badajoz</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>EAS</Cod>
+      <Nom>San Sebastián</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>FUE</Cod>
+      <Nom>Fuerteventura</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>GRX</Cod>
+      <Nom>Granada</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>IBZ</Cod>
+      <Nom>Ibiza</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>LCG</Cod>
+      <Nom>La Coruña</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>LEI</Cod>
+      <Nom>Almería</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>LPA</Cod>
+      <Nom>Las Palmas</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>MAD</Cod>
+      <Nom>Madrid</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>MAH</Cod>
+      <Nom>Menorca</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>MJV</Cod>
+      <Nom>Murcia</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>MLN</Cod>
+      <Nom>Melilla</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>OVD</Cod>
+      <Nom>Asturias</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>PMI</Cod>
+      <Nom>Mallorca</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>PNA</Cod>
+      <Nom>Pamplona</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>SCQ</Cod>
+      <Nom>Santiago</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>SDR</Cod>
+      <Nom>Santander</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>SPC</Cod>
+      <Nom>La Palma</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>SVQ</Cod>
+      <Nom>Sevilla</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>TFN</Cod>
+      <Nom>Tenerife Norte</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>TFS</Cod>
+      <Nom>Tenerife Sur</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>VGO</Cod>
+      <Nom>Vigo</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>VLC</Cod>
+      <Nom>Valencia</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>XRY</Cod>
+      <Nom>Jerez</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+    </Origen>
+  </Origenes>
+  <TipoProducto>ES</TipoProducto>
+  <DesTipoProducto>ESTANCIA</DesTipoProducto>
+  <Act>2011-11-04T00:13:18</Act>
+</DCP>

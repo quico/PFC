@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DCP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>382000000029038</Id>
+  <Cod>PDKPH1</Cod>
+  <Nom>Koh Phangan (sin St's)</Nom>
+  <Desc>EL VIAJE INCLUYE: Vuelos de línea regular, clase turista. Alojamiento en habitación doble y régimen seleccionado. Traslados en aeropuertos y hoteles. Asistencia por guías locales de habla inglesa. Seguro de viaje.</Desc>
+  <DesCor>EL VIAJE INCLUYE: Vuelos de línea regular, clase turista. Alojamiento en habitación doble y régimen seleccionado. Traslados en aeropuertos y hoteles. Asistencia por guías locales de habla inglesa. Seguro de viaje.</DesCor>
+  <DesLar>PROGRAMA:
+1er día: España - Bangkok
+   Vuelo con destino Bangkok. Noche a bordo.
+2º día: Bangkok ¿-Koh Phangan
+   Llegada al aeropuerto de Koh Samui y traslado a la vecina isla de Koh Phangan. Traslado al hotel.
+3er al 6º día: Koh Phangan
+   Días libres a su entera disposición, con la posibilidad de tomar parte en distintas actividades facultativas. 
+7º día: Koh Phangan - España
+   Vuelo de regreso a Bangkok para enlazar con el vuelo a España. Noche a bordo.
+8 día: España
+   Llegada.</DesLar>
+  <Est>true</Est>
+  <Ect>false</Ect>
+  <Sto>false</Sto>
+  <Sts>false</Sts>
+  <St1>false</St1>
+  <St2>false</St2>
+  <St3>false</St3>
+  <St4>false</St4>
+  <Alc>true</Alc>
+  <Subz>false</Subz>
+  <UrlFot>http://www.barceloviajes.com/images/BV/imagenes/kohphangan/kohphangan_01.jpg</UrlFot>
+  <UrlFla>http://pb2capip.iberojet.es/contenidos/destinos</UrlFla>
+  <Nde>1</Nde>
+  <SalIni>2011-11-01T00:00:00</SalIni>
+  <SalFin>2012-04-30T00:00:00</SalFin>
+  <SalVal>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</SalVal>
+  <OriFic>false</OriFic>
+  <Folletos>
+    <Folleto>
+      <Cod>01COM</Cod>
+      <Nom>Asia productos sin St's</Nom>
+      <Prv>IBJ</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+      <Tra>false</Tra>
+      <Lab />
+      <Act>2011-10-29T01:17:14</Act>
+    </Folleto>
+  </Folletos>
+  <Destinos>
+    <Destino>
+      <Cod>DKPH</Cod>
+      <Nom>Koh Phangan</Nom>
+      <Est>true</Est>
+      <Noc>0000XXXXXXXXXXXXXXXXXXXXXXX000000000000000000000000000000000000000000000000000000000000000</Noc>
+      <NocDft>5</NocDft>
+      <SubZonas>
+        <SubZona>
+          <Cod>01</Cod>
+          <Nom>Koh Phangan</Nom>
+        </SubZona>
+      </SubZonas>
+    </Destino>
+  </Destinos>
+  <Origenes>
+    <Origen>
+      <Cod>ACE</Cod>
+      <Nom>Lanzarote</Nom>
+      <Tra>false</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>AGP</Cod>
+      <Nom>Málaga</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>ALC</Cod>
+      <Nom>Alicante</Nom>
+      <Tra>false</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>BCN</Cod>
+      <Nom>Barcelona</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>BIO</Cod>
+      <Nom>Bilbao</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>FUE</Cod>
+      <Nom>Fuerteventura</Nom>
+      <Tra>false</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>IBZ</Cod>
+      <Nom>Ibiza</Nom>
+      <Tra>false</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>LCG</Cod>
+      <Nom>La Coruña</Nom>
+      <Tra>false</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>LPA</Cod>
+      <Nom>Las Palmas</Nom>
+      <Tra>false</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>MAD</Cod>
+      <Nom>Madrid</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>OVD</Cod>
+      <Nom>Asturias</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>PMI</Cod>
+      <Nom>Mallorca</Nom>
+      <Tra>false</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>SCQ</Cod>
+      <Nom>Santiago</Nom>
+      <Tra>false</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>TFN</Cod>
+      <Nom>Tenerife Norte</Nom>
+      <Tra>false</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>VGO</Cod>
+      <Nom>Vigo</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>VLC</Cod>
+      <Nom>Valencia</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+  </Origenes>
+  <TipoProducto>ES</TipoProducto>
+  <DesTipoProducto>ESTANCIA</DesTipoProducto>
+  <Act>2011-10-29T01:17:14</Act>
+</DCP>

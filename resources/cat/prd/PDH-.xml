@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DCP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>382000000035043</Id>
+  <Cod>PDH-</Cod>
+  <Nom>Kyoto</Nom>
+  <Desc>EL VIAJE INCLUYE:  traslados según programas, estancia en régimen de alojamiento y desayuno, seguro y material de viaje.
+
+NOTAS IMPORTANTES: 
+En Japón no es muy común el uso de las camas de matrimonio. Si usted desea este
+tipo de alojamiento, rogamos lo indique al solicitar la reserva y haremos lo posible por confirmarlo. No obstante, en ningún caso queda garantizado y dependerá siempre de la disponibilidad.</Desc>
+  <DesCor>EL VIAJE INCLUYE:  traslados según programas, estancia en régimen de alojamiento y desayuno, seguro y material de viaje.
+
+NOTAS IMPORTANTES: 
+En Japón no es muy común el uso de las camas de matrimonio. Si usted desea este
+tipo de alojamiento, rogamos lo indique al solicitar la reserva y haremos lo posible por confirmarlo. No obstante, en ningún caso queda garantizado y dependerá siempre de la disponibilidad.</DesCor>
+  <DesLar>PROGRAMA: 
+Día 1º ESPAÑA / OSAKA
+   Salida en vuelo de línea regular con destino Osaka. Noche a bordo.
+Día 2º KYOTO
+   Llegada al aeropuerto de Osaka y traslado al hotel. Alojamiento.
+Días 3º a 6º KYOTO
+   Desayuno. Días libres para hacer visitas y excursiones o disfrutar de la ciudad elegida a su ritmo. Alojamiento.
+Día 7º KYOTO / ESPAÑA
+   Desayuno. Traslado al aeropuerto y vuelo de regreso a España. Llegada</DesLar>
+  <Est>true</Est>
+  <Ect>false</Ect>
+  <Sto>true</Sto>
+  <Sts>false</Sts>
+  <St1>false</St1>
+  <St2>false</St2>
+  <St3>true</St3>
+  <St4>false</St4>
+  <Alc>true</Alc>
+  <Subz>false</Subz>
+  <UrlFot>http://www.barceloviajes.com/images/BV/imagenes/kyoto/kyoto_01.jpg</UrlFot>
+  <UrlFla>http://pb2capip.iberojet.es/contenidos/destinos</UrlFla>
+  <Nde>1</Nde>
+  <SalIni>2011-10-23T00:00:00</SalIni>
+  <SalFin>2012-03-31T00:00:00</SalFin>
+  <SalVal>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</SalVal>
+  <OriFic>false</OriFic>
+  <Folletos>
+    <Folleto>
+      <Cod>V11KG</Cod>
+      <Nom>Kirunna Verano 2011</Nom>
+      <Prv>TRM</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>true</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-10-22T00:18:33</Act>
+    </Folleto>
+  </Folletos>
+  <Destinos>
+    <Destino>
+      <Cod>DH-</Cod>
+      <Nom>Kyoto</Nom>
+      <Est>true</Est>
+      <Noc>0000XXXXXXXX000000000000000000000000000000000000000000000000000000000000000000000000000000</Noc>
+      <NocDft>7</NocDft>
+      <SubZonas>
+        <SubZona>
+          <Cod>01</Cod>
+          <Nom>Kyoto</Nom>
+        </SubZona>
+      </SubZonas>
+    </Destino>
+  </Destinos>
+  <Origenes>
+    <Origen>
+      <Cod>ACE</Cod>
+      <Nom>Lanzarote</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>AGP</Cod>
+      <Nom>Málaga</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>ALC</Cod>
+      <Nom>Alicante</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>BCN</Cod>
+      <Nom>Barcelona</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>BIO</Cod>
+      <Nom>Bilbao</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>FUE</Cod>
+      <Nom>Fuerteventura</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>IBZ</Cod>
+      <Nom>Ibiza</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>LCG</Cod>
+      <Nom>La Coruña</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>LPA</Cod>
+      <Nom>Las Palmas</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>MAD</Cod>
+      <Nom>Madrid</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>MAH</Cod>
+      <Nom>Menorca</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>OVD</Cod>
+      <Nom>Asturias</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>PMI</Cod>
+      <Nom>Mallorca</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>SCQ</Cod>
+      <Nom>Santiago</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>TFN</Cod>
+      <Nom>Tenerife Norte</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>TFS</Cod>
+      <Nom>Tenerife Sur</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>VGO</Cod>
+      <Nom>Vigo</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>VLC</Cod>
+      <Nom>Valencia</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>XRY</Cod>
+      <Nom>Jerez</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-23T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+  </Origenes>
+  <TipoProducto>ES</TipoProducto>
+  <DesTipoProducto>ESTANCIA</DesTipoProducto>
+  <Act>2011-10-22T00:18:33</Act>
+</DCP>

@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArea xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Area>
+    <Id>382000000000465</Id>
+    <Cod>382000000000465</Cod>
+    <Nom>Total</Nom>
+    <SubAreas>
+      <SubArea>
+        <Id>382000000000689</Id>
+        <Cod>6</Cod>
+        <Nom>Tenerife</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000000751</Id>
+            <Cod>PD0146</Cod>
+            <Nom>Las Caletillas</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000000863</Id>
+            <Cod>PD0147</Cod>
+            <Nom>Santa Cruz de Tenerife</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000000688</Id>
+            <Cod>PD03</Cod>
+            <Nom>Puerto de la Cruz</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000000693</Id>
+            <Cod>PD04</Cod>
+            <Nom>Sur de Tenerife</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000000698</Id>
+        <Cod>1</Cod>
+        <Nom>R. Dominicana</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000000697</Id>
+            <Cod>PD83</Cod>
+            <Nom>Punta Cana</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000000701</Id>
+            <Cod>PDBY</Cod>
+            <Nom>Bayahíbe</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000000757</Id>
+        <Cod>3</Cod>
+        <Nom>Mallorca</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000000756</Id>
+            <Cod>PD06</Cod>
+            <Nom>Mallorca</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000000842</Id>
+        <Cod>4</Cod>
+        <Nom>Ibiza</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000000841</Id>
+            <Cod>PD07</Cod>
+            <Nom>Ibiza</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000000846</Id>
+        <Cod>5</Cod>
+        <Nom>Menorca</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000000845</Id>
+            <Cod>PD08</Cod>
+            <Nom>Menorca</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000000859</Id>
+        <Cod>9</Cod>
+        <Nom>Gran Canaria</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000001227</Id>
+            <Cod>PD01</Cod>
+            <Nom>Las Palmas</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000000879</Id>
+            <Cod>PD02</Cod>
+            <Nom>Sur de Gran Canaria</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000025933</Id>
+        <Cod>305</Cod>
+        <Nom>Italia, Sicilia y Cerdeña</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000010655</Id>
+            <Cod>PD5N</Cod>
+            <Nom>Palermo</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000002372</Id>
+            <Cod>PD73</Cod>
+            <Nom>Roma</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000010144</Id>
+            <Cod>PD79</Cod>
+            <Nom>Venecia</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000010168</Id>
+            <Cod>PD81</Cod>
+            <Nom>Florencia</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000010175</Id>
+            <Cod>PDTI</Cod>
+            <Nom>Taormina</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000024266</Id>
+        <Cod>177</Cod>
+        <Nom>Malasia</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000035049</Id>
+            <Cod>PDLKUL</Cod>
+            <Nom>Estancia Kuala Lumpur</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000017533</Id>
+        <Cod>232</Cod>
+        <Nom>Japón</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000035040</Id>
+            <Cod>PD2W</Cod>
+            <Nom>Tokyo</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000035043</Id>
+            <Cod>PDH-</Cod>
+            <Nom>Kyoto</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000035046</Id>
+            <Cod>PDI-</Cod>
+            <Nom>Osaka</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000023879</Id>
+        <Cod>242</Cod>
+        <Nom>Seychelles</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000023882</Id>
+            <Cod>PDSEZM</Cod>
+            <Nom>Seychelles (Mahé)</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000023889</Id>
+        <Cod>62</Cod>
+        <Nom>Zanzibar</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000023888</Id>
+            <Cod>PDZS</Cod>
+            <Nom>Isla Zanzibar</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000000892</Id>
+        <Cod>8</Cod>
+        <Nom>Fuerteventura</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000000891</Id>
+            <Cod>PDFU</Cod>
+            <Nom>Fuerteventura</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000000885</Id>
+        <Cod>7</Cod>
+        <Nom>Lanzarote</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000000884</Id>
+            <Cod>PD05</Cod>
+            <Nom>Lanzarote</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000000896</Id>
+        <Cod>10</Cod>
+        <Nom>La Palma</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000000895</Id>
+            <Cod>PDPM</Cod>
+            <Nom>La Palma</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000003706</Id>
+        <Cod>11</Cod>
+        <Nom>Gomera</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000008874</Id>
+            <Cod>PDGO</Cod>
+            <Nom>Gomera</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000001028</Id>
+        <Cod>65</Cod>
+        <Nom>Belgica</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002407</Id>
+            <Cod>PD09</Cod>
+            <Nom>Bruselas</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002376</Id>
+        <Cod>28</Cod>
+        <Nom>Alemania</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002375</Id>
+            <Cod>PDBN</Cod>
+            <Nom>Berlín</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000014415</Id>
+            <Cod>PDMU</Cod>
+            <Nom>Munich</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002323</Id>
+        <Cod>35</Cod>
+        <Nom>Austria</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002322</Id>
+            <Cod>PD15</Cod>
+            <Nom>Viena</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002415</Id>
+        <Cod>64</Cod>
+        <Nom>Holanda</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002414</Id>
+            <Cod>PD19</Cod>
+            <Nom>Amsterdam</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002419</Id>
+        <Cod>18</Cod>
+        <Nom>Hungria</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002418</Id>
+            <Cod>PD1L</Cod>
+            <Nom>Budapest</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000001800</Id>
+        <Cod>20</Cod>
+        <Nom>Malta</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000001799</Id>
+            <Cod>PDML</Cod>
+            <Nom>Malta</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002380</Id>
+        <Cod>94</Cod>
+        <Nom>Irlanda</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002379</Id>
+            <Cod>PDDU</Cod>
+            <Nom>Dublín</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002358</Id>
+        <Cod>19</Cod>
+        <Nom>Portugal</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000010149</Id>
+            <Cod>PD20</Cod>
+            <Nom>Funchal</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000002357</Id>
+            <Cod>PD4X</Cod>
+            <Nom>Lisboa</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002362</Id>
+        <Cod>34</Cod>
+        <Nom>República Checa</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002361</Id>
+            <Cod>PD1O</Cod>
+            <Nom>Praga</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000010176</Id>
+        <Cod>21</Cod>
+        <Nom>Sicilia</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000010655</Id>
+            <Cod>PD5N</Cod>
+            <Nom>Palermo</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000010175</Id>
+            <Cod>PDTI</Cod>
+            <Nom>Taormina</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000000705</Id>
+        <Cod>13</Cod>
+        <Nom>México</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000000904</Id>
+            <Cod>PD40</Cod>
+            <Nom>Cancún</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000000704</Id>
+            <Cod>PDRM</Cod>
+            <Nom>Riviera Maya</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000000714</Id>
+        <Cod>84</Cod>
+        <Nom>Brasil</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000010312</Id>
+            <Cod>PDDJVT</Cod>
+            <Nom>Recife VVT</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000000722</Id>
+            <Cod>PDDM</Cod>
+            <Nom>Salvador de Bahia</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000000725</Id>
+            <Cod>PDDP</Cod>
+            <Nom>Praia do Forte</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000000728</Id>
+            <Cod>PDDX</Cod>
+            <Nom>Sauipe</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000014402</Id>
+            <Cod>PDLWVT</Cod>
+            <Nom>Estancia Río de Janeiro</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000010309</Id>
+            <Cod>PDXPVT</Cod>
+            <Nom>Fortaleza VVT</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002445</Id>
+        <Cod>105</Cod>
+        <Nom>Costa Rica</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002512</Id>
+            <Cod>PDG1VT</Cod>
+            <Nom>San José de Costa Rica</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000001122</Id>
+        <Cod>15</Cod>
+        <Nom>Italia</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002372</Id>
+            <Cod>PD73</Cod>
+            <Nom>Roma</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000010144</Id>
+            <Cod>PD79</Cod>
+            <Nom>Venecia</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000010168</Id>
+            <Cod>PD81</Cod>
+            <Nom>Florencia</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002469</Id>
+        <Cod>83</Cod>
+        <Nom>EEUU</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000012372</Id>
+            <Cod>PD54OR</Cod>
+            <Nom>ESTANCIA ORLANDO</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000014430</Id>
+            <Cod>PDSUT</Cod>
+            <Nom>MIAMI</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000028504</Id>
+            <Cod>PDT7</Cod>
+            <Nom>Nueva York</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002366</Id>
+        <Cod>14</Cod>
+        <Nom>Francia</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002365</Id>
+            <Cod>PD18</Cod>
+            <Nom>Paris</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002384</Id>
+        <Cod>30</Cod>
+        <Nom>Gran Bretaña</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002410</Id>
+            <Cod>PD12</Cod>
+            <Nom>Londres</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000002383</Id>
+            <Cod>PDED</Cod>
+            <Nom>Edimburgo</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000001764</Id>
+        <Cod>25</Cod>
+        <Nom>Tunez</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000001763</Id>
+            <Cod>PD13</Cod>
+            <Nom>Hammamet</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000001770</Id>
+            <Cod>PDMO</Cod>
+            <Nom>Monastir</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000001773</Id>
+            <Cod>PDPS</Cod>
+            <Nom>Port El Kantaoui/Sousse</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002316</Id>
+        <Cod>24</Cod>
+        <Nom>Marruecos</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002315</Id>
+            <Cod>PDMR</Cod>
+            <Nom>Marrakech</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002329</Id>
+        <Cod>22</Cod>
+        <Nom>Grecia</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002328</Id>
+            <Cod>PD10</Cod>
+            <Nom>Atenas</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000002344</Id>
+        <Cod>27</Cod>
+        <Nom>Turquia</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000002343</Id>
+            <Cod>PD11</Cod>
+            <Nom>Estambul</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000006589</Id>
+        <Cod>-1</Cod>
+        <Nom>Cuba</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000006588</Id>
+            <Cod>PD91</Cod>
+            <Nom>La Habana</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000010135</Id>
+            <Cod>PD92</Cod>
+            <Nom>Varadero</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000001796</Id>
+        <Cod>374</Cod>
+        <Nom>Cabo Verde</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000013316</Id>
+            <Cod>PD0152</Cod>
+            <Nom>Isla de Sal</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000003204</Id>
+        <Cod>197</Cod>
+        <Nom>Panamá</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000003203</Id>
+            <Cod>PDW9VT</Cod>
+            <Nom>Panamá</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000003397</Id>
+        <Cod>248</Cod>
+        <Nom>Israel</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000013016</Id>
+            <Cod>PDRW</Cod>
+            <Nom>Jerusalén</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000013019</Id>
+            <Cod>PDRX</Cod>
+            <Nom>Tel Aviv</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000003686</Id>
+        <Cod>114</Cod>
+        <Nom>Perú</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000012360</Id>
+            <Cod>PD8ZV1</Cod>
+            <Nom>LIMA VVT</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000008416</Id>
+        <Cod>195</Cod>
+        <Nom>Colombia</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000034260</Id>
+            <Cod>PDBF</Cod>
+            <Nom>Cartagena de Indias</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+      <SubArea>
+        <Id>382000000015094</Id>
+        <Cod>61</Cod>
+        <Nom>Thailandia</Nom>
+        <DCPs>
+          <DCP>
+            <Id>382000000029044</Id>
+            <Cod>PD4301</Cod>
+            <Nom>Bangkok (sin St's)</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000029050</Id>
+            <Cod>PD4501</Cod>
+            <Nom>Phuket (sin ST's)</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000029038</Id>
+            <Cod>PDKPH1</Cod>
+            <Nom>Koh Phangan (sin St's)</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000029041</Id>
+            <Cod>PDKR01</Cod>
+            <Nom>Krabi (sin St's)</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+          <DCP>
+            <Id>382000000029053</Id>
+            <Cod>PDPH01</Cod>
+            <Nom>Phi Phi (sin St's)</Nom>
+            <Eti>
+              <Etiqueta>
+                <Cod>-1</Cod>
+                <Nom>Otros Productos</Nom>
+              </Etiqueta>
+            </Eti>
+          </DCP>
+        </DCPs>
+      </SubArea>
+    </SubAreas>
+  </Area>
+</ArrayOfArea>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Label>
+    <Cod>CO</Cod>
+    <Des>Colectivos</Des>
+    <Ord>000000</Ord>
+  </Label>
+  <Label>
+    <Cod>55</Cod>
+    <Des>Club 55</Des>
+    <Ord>000000</Ord>
+    <Pad>CO</Pad>
+  </Label>
+  <Label>
+    <Cod>EMIN</Cod>
+    <Des>Edad mínima</Des>
+    <Ord>000000</Ord>
+  </Label>
+  <Label>
+    <Cod>EMIN55</Cod>
+    <Des>Edad mínima 55 años</Des>
+    <Ord>000055</Ord>
+    <Pad>EMIN</Pad>
+  </Label>
+  <Label>
+    <Cod>SEN</Cod>
+    <Des>Seniors</Des>
+    <Ord>000004</Ord>
+    <Pad>CO</Pad>
+  </Label>
+  <Label>
+    <Cod>NOV</Cod>
+    <Des>Novios</Des>
+    <Ord>000001</Ord>
+    <Pad>CO</Pad>
+  </Label>
+  <Label>
+    <Cod>RESBAL</Cod>
+    <Des>Residentes Baleares</Des>
+    <Ord>000002</Ord>
+    <Pad>CO</Pad>
+  </Label>
+  <Label>
+    <Cod>RESCAN</Cod>
+    <Des>Residentes Canarias</Des>
+    <Ord>000003</Ord>
+    <Pad>CO</Pad>
+  </Label>
+</ArrayOfLabel>

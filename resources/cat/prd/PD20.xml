@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DCP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>382000000010149</Id>
+  <Cod>PD20</Cod>
+  <Nom>Funchal</Nom>
+  <DesCor>EL VIAJE INCLUYE: Vuelo  especial o de línea regular en clase turista; traslados; estancia en el hotel y régimen seleccionado. Seguro de viaje.</DesCor>
+  <DesLar>PROGRAMA:
+Primer día: 
+   Presentación en el aeropuerto noventa minutos antes de la salida del avión, en salidas internacionales y en el mostrador de la compañia aérea. Una vez facturado el equipaje y pasado el control de policía, salida con destino a Madeira. Llegada y traslado a los respectivos hoteles.
+Días intermedios: Madeira.
+   Días libres. Estancia en los hoteles según el régimen confirmado. Posibilidad de realizar una amplia gama de excursiones facultativas de acuerdo con la información que obtendrá a través de nuestros representantes.
+Ultimo día: 
+   Traslado al aeropuerto, facturación del equipaje y salida con destino al aeropuerto español de origen. La hora de recogida en los hoteles, les será comunicada por mediación de nuestros representantes.
+
+HOTELES PREVISTOS:
+Pestana Bay 
+Pestana Grand 
+Jardins d¿Ajuda
+Musa d¿Ajuda 
+Baía Azul 
+Four Views Monumental Lido 
+Dorisal/Buganvilia/Mimosa 
+Pestana Village 
+Pestana Miramar 
+Quinta Perestrello 
+Pestana Carlton Madeira
+Gorgulho 
+Four Views Baia 
+Quinta do Monte 
+Pestana Casino Park 
+Orca Praia 
+Do Carmo 
+Quinta do sol 
+Porto Mare</DesLar>
+  <Est>true</Est>
+  <Ect>false</Ect>
+  <Sto>true</Sto>
+  <Sts>false</Sts>
+  <St1>false</St1>
+  <St2>false</St2>
+  <St3>false</St3>
+  <St4>false</St4>
+  <Alc>true</Alc>
+  <Subz>false</Subz>
+  <UrlFot>http://www.barceloviajes.com/images/BV/imagenes/funchal/funchal_01.jpg</UrlFot>
+  <UrlFla>http://tb2capip.iberojet.es/contenidos/destinos/portugal/flash/d20.swf</UrlFla>
+  <Nde>1</Nde>
+  <SalIni>2011-11-13T00:00:00</SalIni>
+  <SalFin>2012-04-30T00:00:00</SalFin>
+  <SalVal>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</SalVal>
+  <OriFic>false</OriFic>
+  <Folletos>
+    <Folleto>
+      <Cod>I11IG</Cod>
+      <Nom>Iberojet Inv. Europa Occ. 11</Nom>
+      <Prv>IBJ</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-12T00:47:32</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>I11P4</Cod>
+      <Nom>Iberojet Puente Dic. 4 noches</Nom>
+      <Prv>IBJ</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-12-07T00:00:00</SalIni>
+      <SalFin>2011-12-07T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-08T01:42:25</Act>
+    </Folleto>
+  </Folletos>
+  <Destinos>
+    <Destino>
+      <Cod>D20</Cod>
+      <Nom>Madeira</Nom>
+      <Est>true</Est>
+      <Noc>000XXXXXXXXXXXXXXXXXXXXXXXXXX0000000000000000000000000000000000000000000000000000000000000</Noc>
+      <NocDft>7</NocDft>
+      <SubZonas>
+        <SubZona>
+          <Cod>01</Cod>
+          <Nom>Madeira</Nom>
+        </SubZona>
+      </SubZonas>
+    </Destino>
+  </Destinos>
+  <Origenes>
+    <Origen>
+      <Cod>AGP</Cod>
+      <Nom>Málaga</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>BCN</Cod>
+      <Nom>Barcelona</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>BIO</Cod>
+      <Nom>Bilbao</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>LCG</Cod>
+      <Nom>La Coruña</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>LPA</Cod>
+      <Nom>Las Palmas</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-03-24T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>MAD</Cod>
+      <Nom>Madrid</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>SVQ</Cod>
+      <Nom>Sevilla</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>TFN</Cod>
+      <Nom>Tenerife Norte</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-12-07T00:00:00</SalIni>
+      <SalFin>2011-12-07T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>VLC</Cod>
+      <Nom>Valencia</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+  </Origenes>
+  <TipoProducto>ES</TipoProducto>
+  <DesTipoProducto>ESTANCIA</DesTipoProducto>
+  <Act>2011-11-12T00:47:32</Act>
+</DCP>

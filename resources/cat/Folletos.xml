@@ -1,0 +1,4749 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFolleto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Folleto>
+    <Cod>D1EI0</Cod>
+    <Nom>Of.Diciembre'11 Nacional-D1EI0</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D1EI1</Cod>
+    <Nom>Of. IBL Nac. In'11/12- D1EI1</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D1EI2</Cod>
+    <Nom>Of. IBL Nac. In'11/12- D1EI2</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1C2V</Cod>
+    <Nom>Campaña IBJ Ahora+Dto. 60días</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000008874</Id>
+        <Cod>PDGO</Cod>
+        <Nom>Gomera</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1CIV</Cod>
+    <Nom>Campaña IBJ Ahora+Dto. 30días</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000008874</Id>
+        <Cod>PDGO</Cod>
+        <Nom>Gomera</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1ING</Cod>
+    <Nom>Iberojet Islas Invierno 11/12</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000008874</Id>
+        <Cod>PDGO</Cod>
+        <Nom>Gomera</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IVV</Cod>
+    <Nom>Iberojet V.Anticipada 60D I.11</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000008874</Id>
+        <Cod>PDGO</Cod>
+        <Nom>Gomera</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1NIV</Cod>
+    <Nom>Iberojet V.Ant. 30D Islas I.11</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000008874</Id>
+        <Cod>PDGO</Cod>
+        <Nom>Gomera</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1RNG</Cod>
+    <Nom>Iberojet Islas Air Nostrum I11</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000008874</Id>
+        <Cod>PDGO</Cod>
+        <Nom>Gomera</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1EI1</Cod>
+    <Nom>Super Oferta. Nov'11 Nac-N1EI1</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1EI3</Cod>
+    <Nom>Super Oferta IBL Nac I11 N1EI3</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1EI4</Cod>
+    <Nom>Super Oferta UXN Nac I11 N1EI4</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1EI6</Cod>
+    <Nom>Oferta Nov. UX Nac.11-N1EI6</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1EIA</Cod>
+    <Nom>O. UH Nac. Inv'11-12 - N1EIA-</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1EIB</Cod>
+    <Nom>Of. JKL Nac. In'11/12- N1EIB</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000751</Id>
+        <Cod>PD0146</Cod>
+        <Nom>Las Caletillas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1CVV</Cod>
+    <Nom>Campaña VVT Ahora+Dto. 30días</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000863</Id>
+        <Cod>PD0147</Cod>
+        <Nom>Santa Cruz de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000008874</Id>
+        <Cod>PDGO</Cod>
+        <Nom>Gomera</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1NVG</Cod>
+    <Nom>Islas Vivatours Escapadas I.11</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000863</Id>
+        <Cod>PD0147</Cod>
+        <Nom>Santa Cruz de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000008874</Id>
+        <Cod>PDGO</Cod>
+        <Nom>Gomera</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1NVV</Cod>
+    <Nom>Islas Viva Escapadas V.An. I11</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000863</Id>
+        <Cod>PD0147</Cod>
+        <Nom>Santa Cruz de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000008874</Id>
+        <Cod>PDGO</Cod>
+        <Nom>Gomera</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1RVG</Cod>
+    <Nom>Islas Viva Air Nostrum Inv.11</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000863</Id>
+        <Cod>PD0147</Cod>
+        <Nom>Santa Cruz de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000008874</Id>
+        <Cod>PDGO</Cod>
+        <Nom>Gomera</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1RVV</Cod>
+    <Nom>Islas Viva Air Nostrum VA I.11</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000863</Id>
+        <Cod>PD0147</Cod>
+        <Nom>Santa Cruz de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000008874</Id>
+        <Cod>PDGO</Cod>
+        <Nom>Gomera</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D1ES0</Cod>
+    <Nom>Of.Diciembre'11 Nacional-D1ES0</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D1ES1</Cod>
+    <Nom>Of.Diciembre'11 Nac. IBL-D1ES1</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D1ES2</Cod>
+    <Nom>Of.Diciembre'11 Nac. IBL-D1ES2</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D1ES7</Cod>
+    <Nom>Esp. "2X1" Nac. Dic11 - D1ES7</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1CSA</Cod>
+    <Nom>Campaña SLP Ahora+Dto. 60días</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1CSV</Cod>
+    <Nom>Campaña SLP Ahora+Dto. 30días</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1I15</Cod>
+    <Nom>Campaña IBJ Islas VA 15D I.11</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1N15</Cod>
+    <Nom>Campaña Islas VA 15 Días I.11</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1PIG</Cod>
+    <Nom>P.Diciembre Islas Iberojet I11</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1PIV</Cod>
+    <Nom>P.Diciembre Islas IBJ VA I.11</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1PVR</Cod>
+    <Nom>P.Diciembre Islas VVT AIR VA11</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1SCR</Cod>
+    <Nom>Campaña SLP Air Nostrum 30días</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1SNG</Cod>
+    <Nom>Super Ahorro Islas Inv.2011/12</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1SNR</Cod>
+    <Nom>S.Ahorro Islas A.Nostrum 11-12</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1SNV</Cod>
+    <Nom>Super Ahorro Islas VA30 I.11</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1SPG</Cod>
+    <Nom>P.Diciembre Islas Solplan I11</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1SPV</Cod>
+    <Nom>P.Diciembre Islas SLP VA I.11</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1SRV</Cod>
+    <Nom>S.Ahorro Islas A.Nostrum VA30D</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1SVV</Cod>
+    <Nom>S.Ahorro Islas VA 60D In.11/12</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1VCR</Cod>
+    <Nom>Campaña VVT Air Nostrum 30Días</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000008874</Id>
+        <Cod>PDGO</Cod>
+        <Nom>Gomera</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1VPG</Cod>
+    <Nom>P.Diciembre Islas Viva Inv.11</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1VPR</Cod>
+    <Nom>P.Diciembre Islas Viva Air I11</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1ES1</Cod>
+    <Nom>Super Oferta. Nov'11 Nac-N1ES1</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1ES3</Cod>
+    <Nom>Super Oferta IBL Nac I11 N1ES3</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1ES4</Cod>
+    <Nom>Super Oferta UXN Nac I11 N1ES4</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1ES8</Cod>
+    <Nom>Oferta Nov. UX Nac.11-N1ES8</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1ESC</Cod>
+    <Nom>Of. UH Nac. Inv'11-12 - N1ESC</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1ESD</Cod>
+    <Nom>Of. Nac. JKL Inv'11-12 - N1ESD</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1NV0</Cod>
+    <Nom>Oferta Nov11 Nacional VVT</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000688</Id>
+        <Cod>PD03</Cod>
+        <Nom>Puerto de la Cruz</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000693</Id>
+        <Cod>PD04</Cod>
+        <Nom>Sur de Tenerife</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000841</Id>
+        <Cod>PD07</Cod>
+        <Nom>Ibiza</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000845</Id>
+        <Cod>PD08</Cod>
+        <Nom>Menorca</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001227</Id>
+        <Cod>PD01</Cod>
+        <Nom>Las Palmas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000879</Id>
+        <Cod>PD02</Cod>
+        <Nom>Sur de Gran Canaria</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000891</Id>
+        <Cod>PDFU</Cod>
+        <Nom>Fuerteventura</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000884</Id>
+        <Cod>PD05</Cod>
+        <Nom>Lanzarote</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000895</Id>
+        <Cod>PDPM</Cod>
+        <Nom>La Palma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D18I0</Cod>
+    <Nom>Of. Navidad salida 18/12-D18I0</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D18IR</Cod>
+    <Nom>Of.Navidad salida 18/12 Riu</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D18S0</Cod>
+    <Nom>Of. Navidad salida 18/12-D18S0</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D18SR</Cod>
+    <Nom>Of. Navidad Riu salida 18 Dic</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D19I0</Cod>
+    <Nom>Of. Navidad salida 19/12-D19I0</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D19IR</Cod>
+    <Nom>Of. Navidad salida 19/12 Riu</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D19S0</Cod>
+    <Nom>Of. Navidad salida 19/12-D19S0</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D19SR</Cod>
+    <Nom>Of. Navidad Riu salida 19 Dic.</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D1ES5</Cod>
+    <Nom>Especial "2X1" Dic'11 - D1ES5-</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000722</Id>
+        <Cod>PDDM</Cod>
+        <Nom>Salvador de Bahia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000728</Id>
+        <Cod>PDDX</Cod>
+        <Nom>Sauipe</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D20I0</Cod>
+    <Nom>Of. Navidad salida 20/12-D20I0</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D20IR</Cod>
+    <Nom>Of. Navidad salida 20/12 Riu</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D20S0</Cod>
+    <Nom>Of. Navidad salida 20/12-D20S0</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D20SR</Cod>
+    <Nom>Of. Navidad Riu salida 20 Dic.</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D21I0</Cod>
+    <Nom>Of. Navidad salida 21/12-D21I0</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D21S0</Cod>
+    <Nom>Of. Navidad salida 21/12-D21S0</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D21SR</Cod>
+    <Nom>Of. Navidad Riu salida 21 Dic.</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I112V</Cod>
+    <Nom>V.A. 60 días Grandes Inv.11-12</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000904</Id>
+        <Cod>PD40</Cod>
+        <Nom>Cancún</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11GI</Cod>
+    <Nom>Grandes Escapadas Inv. 2011/12</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000904</Id>
+        <Cod>PD40</Cod>
+        <Nom>Cancún</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000722</Id>
+        <Cod>PDDM</Cod>
+        <Nom>Salvador de Bahia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11IV</Cod>
+    <Nom>V.A. 30 días Grandes Inv.11-12</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000904</Id>
+        <Cod>PD40</Cod>
+        <Nom>Cancún</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000722</Id>
+        <Cod>PDDM</Cod>
+        <Nom>Salvador de Bahia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11SG</Cod>
+    <Nom>Solplan Caribe Inv.2011/2012</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000904</Id>
+        <Cod>PD40</Cod>
+        <Nom>Cancún</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000722</Id>
+        <Cod>PDDM</Cod>
+        <Nom>Salvador de Bahia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000728</Id>
+        <Cod>PDDX</Cod>
+        <Nom>Sauipe</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11SV</Cod>
+    <Nom>Solplan Ahorro Inv. 2011/2012</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000904</Id>
+        <Cod>PD40</Cod>
+        <Nom>Cancún</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000722</Id>
+        <Cod>PDDM</Cod>
+        <Nom>Salvador de Bahia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I212V</Cod>
+    <Nom>V.A.60D Grandes Ahora +dto I11</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000904</Id>
+        <Cod>PD40</Cod>
+        <Nom>Cancún</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I21IV</Cod>
+    <Nom>V.A.30D Grandes Ahora +dto I11</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000904</Id>
+        <Cod>PD40</Cod>
+        <Nom>Cancún</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000722</Id>
+        <Cod>PDDM</Cod>
+        <Nom>Salvador de Bahia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I21SV</Cod>
+    <Nom>Solplan Ahora más dto.Inv11-12</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000904</Id>
+        <Cod>PD40</Cod>
+        <Nom>Cancún</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000722</Id>
+        <Cod>PDDM</Cod>
+        <Nom>Salvador de Bahia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1EI0</Cod>
+    <Nom>Oferta Noviembre CARIBE -N1EI0</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1EI9</Cod>
+    <Nom>S. Oferta Caribe Nov/Dic N1EI9</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000701</Id>
+        <Cod>PDBY</Cod>
+        <Nom>Bayahíbe</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000722</Id>
+        <Cod>PDDM</Cod>
+        <Nom>Salvador de Bahia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1ES0</Cod>
+    <Nom>Oferta Noviembre CARIBE -N1ES0</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000722</Id>
+        <Cod>PDDM</Cod>
+        <Nom>Salvador de Bahia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000728</Id>
+        <Cod>PDDX</Cod>
+        <Nom>Sauipe</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1ESB</Cod>
+    <Nom>Ultimas Plazas CARIBE Nov/Dic</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1ESE</Cod>
+    <Nom>Of.Noviembre Caribe -N1ESE-</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000697</Id>
+        <Cod>PD83</Cod>
+        <Nom>Punta Cana</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1EI5</Cod>
+    <Nom>Oferta Nov. Nacional ABC N1EI5</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000756</Id>
+        <Cod>PD06</Cod>
+        <Nom>Mallorca</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IGM</Cod>
+    <Nom>11-12/Mediterránea/Ibj/General</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000010655</Id>
+        <Cod>PD5N</Cod>
+        <Nom>Palermo</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010175</Id>
+        <Cod>PDTI</Cod>
+        <Nom>Taormina</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001799</Id>
+        <Cod>PDML</Cod>
+        <Nom>Malta</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002328</Id>
+        <Cod>PD10</Cod>
+        <Nom>Atenas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002343</Id>
+        <Cod>PD11</Cod>
+        <Nom>Estambul</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IVM</Cod>
+    <Nom>11-12/Mediterránea/Ibj/V.Antic</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000010655</Id>
+        <Cod>PD5N</Cod>
+        <Nom>Palermo</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010175</Id>
+        <Cod>PDTI</Cod>
+        <Nom>Taormina</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001799</Id>
+        <Cod>PDML</Cod>
+        <Nom>Malta</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002328</Id>
+        <Cod>PD10</Cod>
+        <Nom>Atenas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002343</Id>
+        <Cod>PD11</Cod>
+        <Nom>Estambul</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11FA</Cod>
+    <Nom>Iberojet Inv'11 Fin de Año</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002372</Id>
+        <Cod>PD73</Cod>
+        <Nom>Roma</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11IG</Cod>
+    <Nom>Iberojet Inv. Europa Occ. 11</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002372</Id>
+        <Cod>PD73</Cod>
+        <Nom>Roma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010144</Id>
+        <Cod>PD79</Cod>
+        <Nom>Venecia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010168</Id>
+        <Cod>PD81</Cod>
+        <Nom>Florencia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002407</Id>
+        <Cod>PD09</Cod>
+        <Nom>Bruselas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002375</Id>
+        <Cod>PDBN</Cod>
+        <Nom>Berlín</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002322</Id>
+        <Cod>PD15</Cod>
+        <Nom>Viena</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002414</Id>
+        <Cod>PD19</Cod>
+        <Nom>Amsterdam</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002418</Id>
+        <Cod>PD1L</Cod>
+        <Nom>Budapest</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002379</Id>
+        <Cod>PDDU</Cod>
+        <Nom>Dublín</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010149</Id>
+        <Cod>PD20</Cod>
+        <Nom>Funchal</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002357</Id>
+        <Cod>PD4X</Cod>
+        <Nom>Lisboa</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002361</Id>
+        <Cod>PD1O</Cod>
+        <Nom>Praga</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002365</Id>
+        <Cod>PD18</Cod>
+        <Nom>Paris</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002410</Id>
+        <Cod>PD12</Cod>
+        <Nom>Londres</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002383</Id>
+        <Cod>PDED</Cod>
+        <Nom>Edimburgo</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11P3</Cod>
+    <Nom>Iberojet Puente Dic. 3 noches</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002372</Id>
+        <Cod>PD73</Cod>
+        <Nom>Roma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010144</Id>
+        <Cod>PD79</Cod>
+        <Nom>Venecia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002375</Id>
+        <Cod>PDBN</Cod>
+        <Nom>Berlín</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002322</Id>
+        <Cod>PD15</Cod>
+        <Nom>Viena</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002414</Id>
+        <Cod>PD19</Cod>
+        <Nom>Amsterdam</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002357</Id>
+        <Cod>PD4X</Cod>
+        <Nom>Lisboa</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002361</Id>
+        <Cod>PD1O</Cod>
+        <Nom>Praga</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002365</Id>
+        <Cod>PD18</Cod>
+        <Nom>Paris</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002410</Id>
+        <Cod>PD12</Cod>
+        <Nom>Londres</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11P4</Cod>
+    <Nom>Iberojet Puente Dic. 4 noches</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002372</Id>
+        <Cod>PD73</Cod>
+        <Nom>Roma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010144</Id>
+        <Cod>PD79</Cod>
+        <Nom>Venecia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002407</Id>
+        <Cod>PD09</Cod>
+        <Nom>Bruselas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002375</Id>
+        <Cod>PDBN</Cod>
+        <Nom>Berlín</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000014415</Id>
+        <Cod>PDMU</Cod>
+        <Nom>Munich</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002414</Id>
+        <Cod>PD19</Cod>
+        <Nom>Amsterdam</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010149</Id>
+        <Cod>PD20</Cod>
+        <Nom>Funchal</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002357</Id>
+        <Cod>PD4X</Cod>
+        <Nom>Lisboa</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002361</Id>
+        <Cod>PD1O</Cod>
+        <Nom>Praga</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002365</Id>
+        <Cod>PD18</Cod>
+        <Nom>Paris</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002410</Id>
+        <Cod>PD12</Cod>
+        <Nom>Londres</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11VG</Cod>
+    <Nom>Vivatours Inv. Occidental '11</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002372</Id>
+        <Cod>PD73</Cod>
+        <Nom>Roma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010144</Id>
+        <Cod>PD79</Cod>
+        <Nom>Venecia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002407</Id>
+        <Cod>PD09</Cod>
+        <Nom>Bruselas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002375</Id>
+        <Cod>PDBN</Cod>
+        <Nom>Berlín</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000014415</Id>
+        <Cod>PDMU</Cod>
+        <Nom>Munich</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002322</Id>
+        <Cod>PD15</Cod>
+        <Nom>Viena</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002414</Id>
+        <Cod>PD19</Cod>
+        <Nom>Amsterdam</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002418</Id>
+        <Cod>PD1L</Cod>
+        <Nom>Budapest</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002357</Id>
+        <Cod>PD4X</Cod>
+        <Nom>Lisboa</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002361</Id>
+        <Cod>PD1O</Cod>
+        <Nom>Praga</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002365</Id>
+        <Cod>PD18</Cod>
+        <Nom>Paris</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002410</Id>
+        <Cod>PD12</Cod>
+        <Nom>Londres</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1PV0</Cod>
+    <Nom>Viva Capitales P.Dic'11</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002372</Id>
+        <Cod>PD73</Cod>
+        <Nom>Roma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010144</Id>
+        <Cod>PD79</Cod>
+        <Nom>Venecia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002407</Id>
+        <Cod>PD09</Cod>
+        <Nom>Bruselas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002375</Id>
+        <Cod>PDBN</Cod>
+        <Nom>Berlín</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000014415</Id>
+        <Cod>PDMU</Cod>
+        <Nom>Munich</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002322</Id>
+        <Cod>PD15</Cod>
+        <Nom>Viena</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002414</Id>
+        <Cod>PD19</Cod>
+        <Nom>Amsterdam</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002418</Id>
+        <Cod>PD1L</Cod>
+        <Nom>Budapest</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002357</Id>
+        <Cod>PD4X</Cod>
+        <Nom>Lisboa</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002365</Id>
+        <Cod>PD18</Cod>
+        <Nom>Paris</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002410</Id>
+        <Cod>PD12</Cod>
+        <Nom>Londres</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1PV3</Cod>
+    <Nom>Viva Puente Dic'11 3 Noches</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002372</Id>
+        <Cod>PD73</Cod>
+        <Nom>Roma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010144</Id>
+        <Cod>PD79</Cod>
+        <Nom>Venecia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002414</Id>
+        <Cod>PD19</Cod>
+        <Nom>Amsterdam</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1PV4</Cod>
+    <Nom>Viva Puente Dic'11 4 Noches</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002372</Id>
+        <Cod>PD73</Cod>
+        <Nom>Roma</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010144</Id>
+        <Cod>PD79</Cod>
+        <Nom>Venecia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002375</Id>
+        <Cod>PDBN</Cod>
+        <Nom>Berlín</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>V11KG</Cod>
+    <Nom>Kirunna Verano 2011</Nom>
+    <Prv>TRM</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000035049</Id>
+        <Cod>PDLKUL</Cod>
+        <Nom>Estancia Kuala Lumpur</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000035040</Id>
+        <Cod>PD2W</Cod>
+        <Nom>Tokyo</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000035043</Id>
+        <Cod>PDH-</Cod>
+        <Nom>Kyoto</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000035046</Id>
+        <Cod>PDI-</Cod>
+        <Nom>Osaka</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>11KAF</Cod>
+    <Nom>Africa Kirunna 2011/12</Nom>
+    <Prv>TRM</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000023882</Id>
+        <Cod>PDSEZM</Cod>
+        <Nom>Seychelles (Mahé)</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000023888</Id>
+        <Cod>PDZS</Cod>
+        <Nom>Isla Zanzibar</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1KAF</Cod>
+    <Nom>África Kirunna Invierno 2011</Nom>
+    <Prv>TRM</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000023882</Id>
+        <Cod>PDSEZM</Cod>
+        <Nom>Seychelles (Mahé)</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000023888</Id>
+        <Cod>PDZS</Cod>
+        <Nom>Isla Zanzibar</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>V11KI</Cod>
+    <Nom>Islas Indico Kirunna 2011</Nom>
+    <Prv>TRM</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000023882</Id>
+        <Cod>PDSEZM</Cod>
+        <Nom>Seychelles (Mahé)</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>08FK1</Cod>
+    <Nom>Oft.Zanzíbar Nov-Marzo</Nom>
+    <Prv>TRM</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000023888</Id>
+        <Cod>PDZS</Cod>
+        <Nom>Isla Zanzibar</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>11FK1</Cod>
+    <Nom>África Gran Promoción 5% DTO.</Nom>
+    <Prv>TRM</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000023888</Id>
+        <Cod>PDZS</Cod>
+        <Nom>Isla Zanzibar</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D2EI0</Cod>
+    <Nom>Of. Puente Diciembre -D2EI0</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002357</Id>
+        <Cod>PD4X</Cod>
+        <Nom>Lisboa</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1OSG</Cod>
+    <Nom>Solplan Oasis Invierno 2011-12</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000904</Id>
+        <Cod>PD40</Cod>
+        <Nom>Cancún</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1OSV</Cod>
+    <Nom>Solplan Ahorro Oasis Inv.11-12</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000904</Id>
+        <Cod>PD40</Cod>
+        <Nom>Cancún</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1ES9</Cod>
+    <Nom>Of. Nov/Dic Especial Oasis CUN</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000904</Id>
+        <Cod>PD40</Cod>
+        <Nom>Cancún</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D23I0</Cod>
+    <Nom>Of. Navidad salida 23/12-D23I0</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D24I0</Cod>
+    <Nom>Of. Nav/F.Año slda 24/12-D24I0</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000704</Id>
+        <Cod>PDRM</Cod>
+        <Nom>Riviera Maya</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1VSA</Cod>
+    <Nom>América del Sur Inv'11-12 VVT</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000010312</Id>
+        <Cod>PDDJVT</Cod>
+        <Nom>Recife VVT</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010309</Id>
+        <Cod>PDXPVT</Cod>
+        <Nom>Fortaleza VVT</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>M11VG</Cod>
+    <Nom>Monograficos Vivatours</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000010312</Id>
+        <Cod>PDDJVT</Cod>
+        <Nom>Recife VVT</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000014402</Id>
+        <Cod>PDLWVT</Cod>
+        <Nom>Estancia Río de Janeiro</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010309</Id>
+        <Cod>PDXPVT</Cod>
+        <Nom>Fortaleza VVT</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000003203</Id>
+        <Cod>PDW9VT</Cod>
+        <Nom>Panamá</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000012360</Id>
+        <Cod>PD8ZV1</Cod>
+        <Nom>LIMA VVT</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>1BPIO</Cod>
+    <Nom>Brasil IBJ Portugal Inv. 11-12</Nom>
+    <Prv>IBJP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000722</Id>
+        <Cod>PDDM</Cod>
+        <Nom>Salvador de Bahia</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D1EI4</Cod>
+    <Nom>Of.Diciembre Caribe -D1EI4-</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000722</Id>
+        <Cod>PDDM</Cod>
+        <Nom>Salvador de Bahia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D1ES4</Cod>
+    <Nom>Of.Diciembre Caribe -D1ES4-</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000722</Id>
+        <Cod>PDDM</Cod>
+        <Nom>Salvador de Bahia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000728</Id>
+        <Cod>PDDX</Cod>
+        <Nom>Sauipe</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1ES5</Cod>
+    <Nom>S.Of. Nov. Caribe I11'12-N1ES5</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000000722</Id>
+        <Cod>PDDM</Cod>
+        <Nom>Salvador de Bahia</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000725</Id>
+        <Cod>PDDP</Cod>
+        <Nom>Praia do Forte</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000000728</Id>
+        <Cod>PDDX</Cod>
+        <Nom>Sauipe</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>11CRV</Cod>
+    <Nom>Costa Rica Verano 2011</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002512</Id>
+        <Cod>PDG1VT</Cod>
+        <Nom>San José de Costa Rica</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>11CVA</Cod>
+    <Nom>Costa Rica V. Anticipada Ver11</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002512</Id>
+        <Cod>PDG1VT</Cod>
+        <Nom>San José de Costa Rica</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>11KAM</Cod>
+    <Nom>AMERICA KIRUNNA 2011/2012</Nom>
+    <Prv>TRM</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000012372</Id>
+        <Cod>PD54OR</Cod>
+        <Nom>ESTANCIA ORLANDO</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000034260</Id>
+        <Cod>PDBF</Cod>
+        <Nom>Cartagena de Indias</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>13UK1</Cod>
+    <Nom>Of.Estancia en Orlando, Nov.</Nom>
+    <Prv>TRM</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000012372</Id>
+        <Cod>PD54OR</Cod>
+        <Nom>ESTANCIA ORLANDO</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>14UK1</Cod>
+    <Nom>Norteamérica Gran Promoción 5%</Nom>
+    <Prv>TRM</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000012372</Id>
+        <Cod>PD54OR</Cod>
+        <Nom>ESTANCIA ORLANDO</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>32UV1</Cod>
+    <Nom>Oft.Orlando Noviembre/esc</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000012372</Id>
+        <Cod>PD54OR</Cod>
+        <Nom>ESTANCIA ORLANDO</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1KNA</Cod>
+    <Nom>KIRUNNA NORTEAMERICA INV 11/12</Nom>
+    <Prv>TRM</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000012372</Id>
+        <Cod>PD54OR</Cod>
+        <Nom>ESTANCIA ORLANDO</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1VNA</Cod>
+    <Nom>VIVA TOURS INV.11/12</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000012372</Id>
+        <Cod>PD54OR</Cod>
+        <Nom>ESTANCIA ORLANDO</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000014430</Id>
+        <Cod>PDSUT</Cod>
+        <Nom>MIAMI</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>V11VA</Cod>
+    <Nom>América Vivatours Verano 2011</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000012372</Id>
+        <Cod>PD54OR</Cod>
+        <Nom>ESTANCIA ORLANDO</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000014430</Id>
+        <Cod>PDSUT</Cod>
+        <Nom>MIAMI</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>V11VE</Cod>
+    <Nom>Lo Mejor de América Escapadas</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000012372</Id>
+        <Cod>PD54OR</Cod>
+        <Nom>ESTANCIA ORLANDO</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000014430</Id>
+        <Cod>PDSUT</Cod>
+        <Nom>MIAMI</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>33UV1</Cod>
+    <Nom>Of. Miami, Noviembre</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000014430</Id>
+        <Cod>PDSUT</Cod>
+        <Nom>MIAMI</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>05NYV</Cod>
+    <Nom>NYC AHORA MAS DTO. ESC .COM</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>06NYC</Cod>
+    <Nom>Ahora Mas Descuento Nueva York</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>11SNV</Cod>
+    <Nom>SLP SUPERAHORRO NYC VA I.11/12</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>12US1</Cod>
+    <Nom>Oferta Nueva York Noviembre UX</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>12UT1</Cod>
+    <Nom>OFT.NYC Noviembre s/City</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>13US1</Cod>
+    <Nom>OF.Nueva York P.Diciembre</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>14UT1</Cod>
+    <Nom>Oft.N.York Enero s/City</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>16US1</Cod>
+    <Nom>Especial V.Anticipada Noviemb</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>30UV1</Cod>
+    <Nom>OF.NYC PUENTE DIC,Sin Citypack</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>31UV1</Cod>
+    <Nom>Oferta Nueva York s/city ESC</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1SNA</Cod>
+    <Nom>SLP SUPERAHORRO NYC INV. 11/12</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>02NYC</Cod>
+    <Nom>SLP SUPERAHORRO NYC INV 11/12</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>02NYV</Cod>
+    <Nom>SLP SUPERAHORRO NYC VA I.11/12</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>07UT1</Cod>
+    <Nom>Of.N.York Puente Dic S/Citypac</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>08UK1</Cod>
+    <Nom>Of.NYC Puente Diciembre S/City</Nom>
+    <Prv>TRM</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>10UT1</Cod>
+    <Nom>Especial V.Ant. NYC sin city</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000028504</Id>
+        <Cod>PDT7</Cod>
+        <Nom>Nueva York</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D1EI3</Cod>
+    <Nom>Of. Túnez Diciembre'11 - D1EI3</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000001763</Id>
+        <Cod>PD13</Cod>
+        <Nom>Hammamet</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001770</Id>
+        <Cod>PDMO</Cod>
+        <Nom>Monastir</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001773</Id>
+        <Cod>PDPS</Cod>
+        <Nom>Port El Kantaoui/Sousse</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D1ES3</Cod>
+    <Nom>Of. Túnez Diciembre'11 - D1ES3</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000001763</Id>
+        <Cod>PD13</Cod>
+        <Nom>Hammamet</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001770</Id>
+        <Cod>PDMO</Cod>
+        <Nom>Monastir</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001773</Id>
+        <Cod>PDPS</Cod>
+        <Nom>Port El Kantaoui/Sousse</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IM1</Cod>
+    <Nom>Inv.11-12/Ibj/Magreb/Ene-Feb</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000001763</Id>
+        <Cod>PD13</Cod>
+        <Nom>Hammamet</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001770</Id>
+        <Cod>PDMO</Cod>
+        <Nom>Monastir</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001773</Id>
+        <Cod>PDPS</Cod>
+        <Nom>Port El Kantaoui/Sousse</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IMG</Cod>
+    <Nom>Inv.11-12/Ibj/Magreb/General</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000001763</Id>
+        <Cod>PD13</Cod>
+        <Nom>Hammamet</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001770</Id>
+        <Cod>PDMO</Cod>
+        <Nom>Monastir</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001773</Id>
+        <Cod>PDPS</Cod>
+        <Nom>Port El Kantaoui/Sousse</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002315</Id>
+        <Cod>PDMR</Cod>
+        <Nom>Marrakech</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000013316</Id>
+        <Cod>PD0152</Cod>
+        <Nom>Isla de Sal</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IMV</Cod>
+    <Nom>Inv.11-12/Ibj/Magreb/V.Antici.</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000001763</Id>
+        <Cod>PD13</Cod>
+        <Nom>Hammamet</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001770</Id>
+        <Cod>PDMO</Cod>
+        <Nom>Monastir</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001773</Id>
+        <Cod>PDPS</Cod>
+        <Nom>Port El Kantaoui/Sousse</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002315</Id>
+        <Cod>PDMR</Cod>
+        <Nom>Marrakech</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IV2</Cod>
+    <Nom>Noviembre/Ibj/Magreb/V.Antici.</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000001763</Id>
+        <Cod>PD13</Cod>
+        <Nom>Hammamet</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001770</Id>
+        <Cod>PDMO</Cod>
+        <Nom>Monastir</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001773</Id>
+        <Cod>PDPS</Cod>
+        <Nom>Port El Kantaoui/Sousse</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1SM1</Cod>
+    <Nom>Inv.11-12/Spl/Magreb/Ene-Feb</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000001763</Id>
+        <Cod>PD13</Cod>
+        <Nom>Hammamet</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001770</Id>
+        <Cod>PDMO</Cod>
+        <Nom>Monastir</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001773</Id>
+        <Cod>PDPS</Cod>
+        <Nom>Port El Kantaoui/Sousse</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1SMG</Cod>
+    <Nom>Inv.11-12/Spl/Magreb/General</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000001763</Id>
+        <Cod>PD13</Cod>
+        <Nom>Hammamet</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001770</Id>
+        <Cod>PDMO</Cod>
+        <Nom>Monastir</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001773</Id>
+        <Cod>PDPS</Cod>
+        <Nom>Port El Kantaoui/Sousse</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1SMV</Cod>
+    <Nom>Inv.11-12/Spl/Magreb/V.Antici.</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000001763</Id>
+        <Cod>PD13</Cod>
+        <Nom>Hammamet</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001770</Id>
+        <Cod>PDMO</Cod>
+        <Nom>Monastir</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001773</Id>
+        <Cod>PDPS</Cod>
+        <Nom>Port El Kantaoui/Sousse</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1SV2</Cod>
+    <Nom>Noviembre/Spl/Magreb/V.Antici.</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000001763</Id>
+        <Cod>PD13</Cod>
+        <Nom>Hammamet</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001770</Id>
+        <Cod>PDMO</Cod>
+        <Nom>Monastir</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001773</Id>
+        <Cod>PDPS</Cod>
+        <Nom>Port El Kantaoui/Sousse</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1EI2</Cod>
+    <Nom>Super Oferta Nov. Intern N1EI2</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000001763</Id>
+        <Cod>PD13</Cod>
+        <Nom>Hammamet</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001770</Id>
+        <Cod>PDMO</Cod>
+        <Nom>Monastir</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001773</Id>
+        <Cod>PDPS</Cod>
+        <Nom>Port El Kantaoui/Sousse</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1ES2</Cod>
+    <Nom>Super Oferta Nov. Intern N1ES2</Nom>
+    <Prv>SLP</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000001763</Id>
+        <Cod>PD13</Cod>
+        <Nom>Hammamet</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001770</Id>
+        <Cod>PDMO</Cod>
+        <Nom>Monastir</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000001773</Id>
+        <Cod>PDPS</Cod>
+        <Nom>Port El Kantaoui/Sousse</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1VMG</Cod>
+    <Nom>Inv.11-12/Vvt/Magreb/General</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002315</Id>
+        <Cod>PDMR</Cod>
+        <Nom>Marrakech</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1VMV</Cod>
+    <Nom>Inv.11-12/Vvt/Magreb/V.Antici.</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002315</Id>
+        <Cod>PDMR</Cod>
+        <Nom>Marrakech</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IPM</Cod>
+    <Nom>ZonaCentro/Mediterránea/Puente</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002328</Id>
+        <Cod>PD10</Cod>
+        <Nom>Atenas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002343</Id>
+        <Cod>PD11</Cod>
+        <Nom>Estambul</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1VGM</Cod>
+    <Nom>11-12/Mediterránea/Vvt/General</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002328</Id>
+        <Cod>PD10</Cod>
+        <Nom>Atenas</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000002343</Id>
+        <Cod>PD11</Cod>
+        <Nom>Estambul</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IP1</Cod>
+    <Nom>ZonaCentro/Mediterránea/Puente</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002343</Id>
+        <Cod>PD11</Cod>
+        <Nom>Estambul</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IPC</Cod>
+    <Nom>Z.Cataluña/Mediterránea/Puente</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002343</Id>
+        <Cod>PD11</Cod>
+        <Nom>Estambul</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IPL</Cod>
+    <Nom>Z.Levante/Mediterránea/Puentes</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002343</Id>
+        <Cod>PD11</Cod>
+        <Nom>Estambul</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IPN</Cod>
+    <Nom>Zona Norte/Mediterránea/Puente</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002343</Id>
+        <Cod>PD11</Cod>
+        <Nom>Estambul</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IPP</Cod>
+    <Nom>Palma/Mediterránea/Puentes</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002343</Id>
+        <Cod>PD11</Cod>
+        <Nom>Estambul</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1IPS</Cod>
+    <Nom>Sevilla/Mediterránea/Puentes</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000002343</Id>
+        <Cod>PD11</Cod>
+        <Nom>Estambul</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>D1EB1</Cod>
+    <Nom>Especial "2x1" Dic'11 - D1EB1-</Nom>
+    <Prv>SLCUB</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000006588</Id>
+        <Cod>PD91</Cod>
+        <Nom>La Habana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010135</Id>
+        <Cod>PD92</Cod>
+        <Nom>Varadero</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11AG</Cod>
+    <Nom>Vivacuba Invierno 2011/2012</Nom>
+    <Prv>VVCUB</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000006588</Id>
+        <Cod>PD91</Cod>
+        <Nom>La Habana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010135</Id>
+        <Cod>PD92</Cod>
+        <Nom>Varadero</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11AV</Cod>
+    <Nom>V.Anticipada Vivacuba Inv11/12</Nom>
+    <Prv>VVCUB</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000006588</Id>
+        <Cod>PD91</Cod>
+        <Nom>La Habana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010135</Id>
+        <Cod>PD92</Cod>
+        <Nom>Varadero</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11BG</Cod>
+    <Nom>Solcuba Invierno 2011-2012</Nom>
+    <Prv>SLCUB</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000006588</Id>
+        <Cod>PD91</Cod>
+        <Nom>La Habana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010135</Id>
+        <Cod>PD92</Cod>
+        <Nom>Varadero</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11BV</Cod>
+    <Nom>Solcuba Ahorro Inv. 2011/2012</Nom>
+    <Prv>SLCUB</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000006588</Id>
+        <Cod>PD91</Cod>
+        <Nom>La Habana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010135</Id>
+        <Cod>PD92</Cod>
+        <Nom>Varadero</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11UG</Cod>
+    <Nom>Ibercuba Invierno 2011/2012</Nom>
+    <Prv>IBCUB</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000006588</Id>
+        <Cod>PD91</Cod>
+        <Nom>La Habana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010135</Id>
+        <Cod>PD92</Cod>
+        <Nom>Varadero</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I11UV</Cod>
+    <Nom>Ibercuba V.Anticipada Inv11/12</Nom>
+    <Prv>IBCUB</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000006588</Id>
+        <Cod>PD91</Cod>
+        <Nom>La Habana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010135</Id>
+        <Cod>PD92</Cod>
+        <Nom>Varadero</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N11B1</Cod>
+    <Nom>Of. Noviembre'11 Solcuba IBQ</Nom>
+    <Prv>SLCUB</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000006588</Id>
+        <Cod>PD91</Cod>
+        <Nom>La Habana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010135</Id>
+        <Cod>PD92</Cod>
+        <Nom>Varadero</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N11U1</Cod>
+    <Nom>Of. Noviembre'11 Ibercuba IBQ</Nom>
+    <Prv>IBCUB</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000006588</Id>
+        <Cod>PD91</Cod>
+        <Nom>La Habana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010135</Id>
+        <Cod>PD92</Cod>
+        <Nom>Varadero</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>N1OA1</Cod>
+    <Nom>Of.Noviembre Vivacuba</Nom>
+    <Prv>VVCUB</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000006588</Id>
+        <Cod>PD91</Cod>
+        <Nom>La Habana</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000010135</Id>
+        <Cod>PD92</Cod>
+        <Nom>Varadero</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>I1VOM</Cod>
+    <Nom>Viva Tours Inv.11-12 O.Medio</Nom>
+    <Prv>VVT</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000013016</Id>
+        <Cod>PDRW</Cod>
+        <Nom>Jerusalén</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000013019</Id>
+        <Cod>PDRX</Cod>
+        <Nom>Tel Aviv</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+  <Folleto>
+    <Cod>01COM</Cod>
+    <Nom>Asia productos sin St's</Nom>
+    <Prv>IBJ</Prv>
+    <DCPs>
+      <DCP>
+        <Id>382000000029044</Id>
+        <Cod>PD4301</Cod>
+        <Nom>Bangkok (sin St's)</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000029050</Id>
+        <Cod>PD4501</Cod>
+        <Nom>Phuket (sin ST's)</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000029038</Id>
+        <Cod>PDKPH1</Cod>
+        <Nom>Koh Phangan (sin St's)</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000029041</Id>
+        <Cod>PDKR01</Cod>
+        <Nom>Krabi (sin St's)</Nom>
+      </DCP>
+      <DCP>
+        <Id>382000000029053</Id>
+        <Cod>PDPH01</Cod>
+        <Nom>Phi Phi (sin St's)</Nom>
+      </DCP>
+    </DCPs>
+  </Folleto>
+</ArrayOfFolleto>

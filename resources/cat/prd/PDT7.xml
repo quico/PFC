@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DCP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>382000000028504</Id>
+  <Cod>PDT7</Cod>
+  <Nom>Nueva York</Nom>
+  <Desc>El viaje incluye: Vuelo de línea regular de la Compañía Iberia. Traslado Aeropuerto/Hotel/ Aeropuerto. Estancia en establecimiento y régimen seleccionado. Seguro turístico.</Desc>
+  <DesCor>El viaje incluye: Vuelo de línea regular de la Compañía Iberia. Traslado Aeropuerto/Hotel/ Aeropuerto. Estancia en establecimiento y régimen seleccionado. Seguro turístico.</DesCor>
+  <DesLar>Vuelo de línea regular de la Compañía Iberia, clase turista España - Nueva York
+Traslado Aeropuerto/ Hotel
+Estancia en Nueva York en el establecimiento y régimen seleccionado.
+  Cosmopolita, moderna, vanguardista....Una ciudad que marca tendencias al resto del mundo y es foco de cultura y espectáculo.
+   La ciudad de los rascacielos, de los musicales, de los museos. Una ciudad excitante.
+Traslado Hotel / Aeropuerto
+Asistencia de nuestro personal en destino.
+Seguro turístico.
+Regreso al lugar de origen: Nueva York - España.</DesLar>
+  <Est>true</Est>
+  <Ect>false</Ect>
+  <Sto>false</Sto>
+  <Sts>false</Sts>
+  <St1>false</St1>
+  <St2>false</St2>
+  <St3>false</St3>
+  <St4>false</St4>
+  <Alc>true</Alc>
+  <Subz>false</Subz>
+  <UrlFot>http://www.barceloviajes.com/images/BV/imagenes/nuevayork/nuevayork_02.jpg</UrlFot>
+  <UrlFla>http://pb2capip.iberojet.es/contenidos/destinos/83/flash/nuevayork.swf</UrlFla>
+  <Nde>1</Nde>
+  <SalIni>2011-11-01T00:00:00</SalIni>
+  <SalFin>2012-04-30T00:00:00</SalFin>
+  <SalVal>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</SalVal>
+  <OriFic>false</OriFic>
+  <CodDcpAgr>
+    <string>PDT7VT</string>
+  </CodDcpAgr>
+  <Folletos>
+    <Folleto>
+      <Cod>05NYV</Cod>
+      <Nom>NYC AHORA MAS DTO. ESC .COM</Nom>
+      <Prv>VVT</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2012-01-01T00:00:00</SalIni>
+      <SalFin>2012-02-28T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-11T01:49:14</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>06NYC</Cod>
+      <Nom>Ahora Mas Descuento Nueva York</Nom>
+      <Prv>SLP</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2012-01-01T00:00:00</SalIni>
+      <SalFin>2012-02-29T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-11T01:49:21</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>11SNV</Cod>
+      <Nom>SLP SUPERAHORRO NYC VA I.11/12</Nom>
+      <Prv>SLP</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-10T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-09T01:06:17</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>12US1</Cod>
+      <Nom>Oferta Nueva York Noviembre UX</Nom>
+      <Prv>SLP</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>true</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-10-18T02:05:28</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>12UT1</Cod>
+      <Nom>OFT.NYC Noviembre s/City</Nom>
+      <Prv>IBJ</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-09T00:00:00</SalIni>
+      <SalFin>2011-11-27T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-08T02:17:08</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>13US1</Cod>
+      <Nom>OF.Nueva York P.Diciembre</Nom>
+      <Prv>SLP</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>true</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-12-02T00:00:00</SalIni>
+      <SalFin>2011-12-02T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-09-27T02:05:11</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>14UT1</Cod>
+      <Nom>Oft.N.York Enero s/City</Nom>
+      <Prv>IBJ</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2012-01-10T00:00:00</SalIni>
+      <SalFin>2012-01-31T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-04T03:50:21</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>16US1</Cod>
+      <Nom>Especial V.Anticipada Noviemb</Nom>
+      <Prv>SLP</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>true</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-09-30T02:06:40</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>30UV1</Cod>
+      <Nom>OF.NYC PUENTE DIC,Sin Citypack</Nom>
+      <Prv>VVT</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-12-04T00:00:00</SalIni>
+      <SalFin>2011-12-06T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-10-29T01:23:53</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>31UV1</Cod>
+      <Nom>Oferta Nueva York s/city ESC</Nom>
+      <Prv>VVT</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-09T00:00:00</SalIni>
+      <SalFin>2011-11-27T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-08T02:17:10</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>I1SNA</Cod>
+      <Nom>SLP SUPERAHORRO NYC INV. 11/12</Nom>
+      <Prv>SLP</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-10T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-09T00:35:41</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>02NYC</Cod>
+      <Nom>SLP SUPERAHORRO NYC INV 11/12</Nom>
+      <Prv>SLP</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-05T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-04T03:49:53</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>02NYV</Cod>
+      <Nom>SLP SUPERAHORRO NYC VA I.11/12</Nom>
+      <Prv>SLP</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-10T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-09T01:11:34</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>07UT1</Cod>
+      <Nom>Of.N.York Puente Dic S/Citypac</Nom>
+      <Prv>IBJ</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>true</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-12-02T00:00:00</SalIni>
+      <SalFin>2011-12-04T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-10-25T02:05:46</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>08UK1</Cod>
+      <Nom>Of.NYC Puente Diciembre S/City</Nom>
+      <Prv>TRM</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>true</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-12-04T00:00:00</SalIni>
+      <SalFin>2011-12-04T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-10-04T02:06:13</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>10UT1</Cod>
+      <Nom>Especial V.Ant. NYC sin city</Nom>
+      <Prv>IBJ</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>true</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2011-11-30T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-10-10T05:15:28</Act>
+    </Folleto>
+  </Folletos>
+  <Destinos>
+    <Destino>
+      <Cod>DT7</Cod>
+      <Nom>Nueva York</Nom>
+      <Est>true</Est>
+      <Noc>00XXXXXXXXXXXX0000000000000000000000000000000000000000000000000000000000000000000000000000</Noc>
+      <NocDft>7</NocDft>
+      <SubZonas>
+        <SubZona>
+          <Cod>01</Cod>
+          <Nom>Nueva York</Nom>
+        </SubZona>
+      </SubZonas>
+    </Destino>
+  </Destinos>
+  <Origenes>
+    <Origen>
+      <Cod>ACE</Cod>
+      <Nom>Lanzarote</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>AGP</Cod>
+      <Nom>Málaga</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>ALC</Cod>
+      <Nom>Alicante</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>BCN</Cod>
+      <Nom>Barcelona</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>BIO</Cod>
+      <Nom>Bilbao</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>FUE</Cod>
+      <Nom>Fuerteventura</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>IBZ</Cod>
+      <Nom>Ibiza</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>LPA</Cod>
+      <Nom>Las Palmas</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>MAD</Cod>
+      <Nom>Madrid</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>MAH</Cod>
+      <Nom>Menorca</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>OVD</Cod>
+      <Nom>Asturias</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>PMI</Cod>
+      <Nom>Mallorca</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>SCQ</Cod>
+      <Nom>Santiago</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>SVQ</Cod>
+      <Nom>Sevilla</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>TFN</Cod>
+      <Nom>Tenerife Norte</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>TFS</Cod>
+      <Nom>Tenerife Sur</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>VGO</Cod>
+      <Nom>Vigo</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>VLC</Cod>
+      <Nom>Valencia</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+  </Origenes>
+  <TipoProducto>ES</TipoProducto>
+  <DesTipoProducto>ESTANCIA</DesTipoProducto>
+  <Act>2011-11-11T01:49:21</Act>
+</DCP>

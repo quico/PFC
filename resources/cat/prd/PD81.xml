@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DCP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>382000000010168</Id>
+  <Cod>PD81</Cod>
+  <Nom>Florencia</Nom>
+  <DesCor>EL VIAJE INCLUYE: Vuelo  especial o de línea regular en clase turista; solo traslado de entrada en programación regular. Ofertas Citybreaks no incluyen traslados (consultar precios); estancia en el hotel y régimen seleccionado. Seguro de viaje.
+</DesCor>
+  <DesLar>PROGRAMA
+Primer día: Ciudad de Origen - Florencia
+   Presentación en el aeropuerto noventa minutos antes de la salida del avión, en salidas internacionales en el mostrador de la compañía aérea. Una  vez facturado el equipaje y pasado el control de policía, salida con destino a Florencia. Alojamiento.
+Días intermedios: Florencia
+   Días libres. Estancia en los hoteles en régimen de  alojamiento y desayuno. 
+Ultimo día: Florencia - Ciudad de Origen
+   Traslado (*opcional)  al aeropuerto, facturación del equipaje y salida con  destino al aeropuerto de la ciudad de origen.
+
+HOTELES PREVISTOS:
+Florencia
+Londra      
+Grand Hotel Minerva   
+Atlantic Palace  
+Machiavelli Palace  
+Paris  
+Rosso 
+Santa Maria Novella
+Balestri  </DesLar>
+  <Est>true</Est>
+  <Ect>false</Ect>
+  <Sto>true</Sto>
+  <Sts>false</Sts>
+  <St1>false</St1>
+  <St2>false</St2>
+  <St3>true</St3>
+  <St4>false</St4>
+  <Alc>true</Alc>
+  <Subz>false</Subz>
+  <UrlFot>http://www.barceloviajes.com/images/BV/imagenes/florencia/florencia_04.jpg</UrlFot>
+  <UrlFla>http://tb2capip.iberojet.es/contenidos/destinos/italia/flash/d81.swf</UrlFla>
+  <Nde>1</Nde>
+  <SalIni>2011-11-13T00:00:00</SalIni>
+  <SalFin>2012-04-30T00:00:00</SalFin>
+  <SalVal>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</SalVal>
+  <OriFic>false</OriFic>
+  <Folletos>
+    <Folleto>
+      <Cod>I11IG</Cod>
+      <Nom>Iberojet Inv. Europa Occ. 11</Nom>
+      <Prv>IBJ</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-12T00:46:11</Act>
+    </Folleto>
+  </Folletos>
+  <Destinos>
+    <Destino>
+      <Cod>D81</Cod>
+      <Nom>Florencia</Nom>
+      <Est>true</Est>
+      <Noc>0XXXXXXXXXXXXXXXXXXX0000000000000000000000000000000000000000000000000000000000000000000000</Noc>
+      <NocDft>2</NocDft>
+      <SubZonas>
+        <SubZona>
+          <Cod>01</Cod>
+          <Nom>Florencia</Nom>
+        </SubZona>
+      </SubZonas>
+    </Destino>
+  </Destinos>
+  <Origenes>
+    <Origen>
+      <Cod>AGP</Cod>
+      <Nom>Málaga</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>BCN</Cod>
+      <Nom>Barcelona</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>MAD</Cod>
+      <Nom>Madrid</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>VLC</Cod>
+      <Nom>Valencia</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-11-13T00:00:00</SalIni>
+      <SalFin>2012-04-30T00:00:00</SalFin>
+    </Origen>
+  </Origenes>
+  <TipoProducto>ES</TipoProducto>
+  <DesTipoProducto>ESTANCIA</DesTipoProducto>
+  <Act>2011-11-12T00:46:11</Act>
+</DCP>

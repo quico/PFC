@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DCP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>382000000023888</Id>
+  <Cod>PDZS</Cod>
+  <Nom>Isla Zanzibar</Nom>
+  <Desc>EL VIAJE INCLUYE: Billete de avión en clase turista, asistencia de habla hispana en el aeropuerto y durante su estancia en Mauricio y Seychelles y de habla inglesa en Zanzíbar, traslados regulares aeropuerto-hotel-aeropuerto, 6 noches de alojamiento en el hotel elegido y régimen seleccionado y seguro de asistencia y material de viaje.</Desc>
+  <DesCor>EL VIAJE INCLUYE: Billete de avión en clase turista, asistencia en el aeropuerto y  traslados regulares aeropuerto-hotel-aeropuerto, noches de alojamiento en el hotel elegido y régimen seleccionado y seguro de asistencia y material de viaje.</DesCor>
+  <Est>true</Est>
+  <Ect>false</Ect>
+  <Sto>false</Sto>
+  <Sts>false</Sts>
+  <St1>false</St1>
+  <St2>false</St2>
+  <St3>true</St3>
+  <St4>false</St4>
+  <Alc>true</Alc>
+  <Subz>false</Subz>
+  <UrlFot>http://www.barceloviajes.com/images/BV/imagenes/zanzibar/zanzibar_01.jpg</UrlFot>
+  <UrlFla>http://tb2capip.iberojet.es/contenidos/destinos</UrlFla>
+  <Nde>1</Nde>
+  <SalIni>2011-10-12T00:00:00</SalIni>
+  <SalFin>2012-03-31T00:00:00</SalFin>
+  <SalVal>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</SalVal>
+  <OriFic>false</OriFic>
+  <Folletos>
+    <Folleto>
+      <Cod>08FK1</Cod>
+      <Nom>Oft.Zanzíbar Nov-Marzo</Nom>
+      <Prv>TRM</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>true</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-03T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-10-25T05:22:35</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>11FK1</Cod>
+      <Nom>África Gran Promoción 5% DTO.</Nom>
+      <Prv>TRM</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>true</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-12T00:00:00</SalIni>
+      <SalFin>2012-02-29T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-11-11T05:16:29</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>11KAF</Cod>
+      <Nom>Africa Kirunna 2011/12</Nom>
+      <Prv>TRM</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-10-12T00:00:00</SalIni>
+      <SalFin>2011-12-22T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-10-11T03:06:13</Act>
+    </Folleto>
+    <Folleto>
+      <Cod>I1KAF</Cod>
+      <Nom>África Kirunna Invierno 2011</Nom>
+      <Prv>TRM</Prv>
+      <ExcAge>false</ExcAge>
+      <ExcCol>false</ExcCol>
+      <Ofe>false</Ofe>
+      <Pur>false</Pur>
+      <Mar>false</Mar>
+      <Bus>false</Bus>
+      <Avi>true</Avi>
+      <SalIni>2011-11-01T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+      <Tra>true</Tra>
+      <Lab />
+      <Act>2011-10-29T00:22:36</Act>
+    </Folleto>
+  </Folletos>
+  <Destinos>
+    <Destino>
+      <Cod>DZS</Cod>
+      <Nom>Zanzibar Costa Sur</Nom>
+      <Est>true</Est>
+      <Noc>0000XXXXXXXXXXX000000000000000000000000000000000000000000000000000000000000000000000000000</Noc>
+      <NocDft>6</NocDft>
+      <SubZonas>
+        <SubZona>
+          <Cod>01</Cod>
+          <Nom>Znz Sur</Nom>
+        </SubZona>
+      </SubZonas>
+    </Destino>
+  </Destinos>
+  <Origenes>
+    <Origen>
+      <Cod>BCN</Cod>
+      <Nom>Barcelona</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-12T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+    <Origen>
+      <Cod>MAD</Cod>
+      <Nom>Madrid</Nom>
+      <Tra>true</Tra>
+      <SalIni>2011-10-12T00:00:00</SalIni>
+      <SalFin>2012-03-31T00:00:00</SalFin>
+    </Origen>
+  </Origenes>
+  <TipoProducto>ES</TipoProducto>
+  <DesTipoProducto>ESTANCIA</DesTipoProducto>
+  <Act>2011-11-11T05:16:29</Act>
+</DCP>

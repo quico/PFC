@@ -20,6 +20,8 @@
             <button id="identificationbt">Submit</button>\
         ';
     
+        //ich.addTemplate("Identificacion", "../templates/identificacion.mustache");
+        //this.el.innerHTML = ich.Identificacion(this.usuarios.at(0).attributes)
         //var template1 = $.get('../templates/identificacion.mustache');
         //alert(template1);
         this.el.innerHTML = Mustache.to_html(template, this.usuarios.at(0).attributes);
