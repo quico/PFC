@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Identificacion</title>
+        <title>Demo API OTA</title>
         
         <!-- libs -->
         <script src="./lib/zepto.js"></script>
@@ -13,6 +13,9 @@
         
         <!-- utils -->
         <script src="./utils/conector.js"></script>
+        
+        <!-- router -->
+        <script src="./router/router.js"></script>
         
         <!-- Identificacion -->
         <script src="./model/identificacion.js"></script>
@@ -29,9 +32,8 @@
         
         <script>    
             $(document).ready(function() {
-                // put all your jQuery goodness in here.
-                idview = new IdentificationView();
-                $('body').append(idview.render().el);
+                var app_router = new AppRouter;
+                Backbone.history.start();
             });
         </script>
 

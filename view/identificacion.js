@@ -23,19 +23,18 @@
         //var template1 = $.get('../templates/identificacion.mustache');
         //alert(template1);
         this.el.innerHTML = Mustache.to_html(template, this.usuarios.at(0).attributes);
+        $('title').text('Demo API OTA - Identificacion');
         return this;
     },
-    saveSesion: function () {
-      //alert('Usuario: ' + $("#user").val());
-      
+    saveSesion: function () {      
       var xml = '<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:ser="http://www.orizonia.com/ota/services">';
       xml += '<soap:Header/>';
       xml += '<soap:Body>';
       xml += '<ser:OTA_OrizoniaIdentificationRQ>';
-      xml += '<ser:Identificator>B2C_GENERICO</ser:Identificator>';
-      xml += '<ser:Password>GENERICO</ser:Password>';
-      xml += '<ser:System>BLANB</ser:System>';
-      xml += '<ser:Language>es</ser:Language>';
+      xml += '<ser:Identificator>' + $("#user").val() + '</ser:Identificator>';
+      xml += '<ser:Password>' + $("#psw").val() + '</ser:Password>';
+      xml += '<ser:System>' + this.usuarios.at(0).get('system') + '</ser:System>';
+      xml += '<ser:Language>' + this.usuarios.at(0).get('language') + '</ser:Language>';
       xml += '</ser:OTA_OrizoniaIdentificationRQ>';
       xml += '</soap:Body>';
       xml += '</soap:Envelope>';
