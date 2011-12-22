@@ -12,7 +12,6 @@
     },
     render: function () {
         var template = '\
-            <p id="sesion"></p>\
             <table><tr><td>Usuario</td>\
             <td><input type="text" name="user" id="user" value="{{ user }}" size="15" maxlength="30"></td>\
             </tr><tr><td>Password</td>\
@@ -46,8 +45,14 @@
       con.post(xml, 'BeginOTA_OrizoniaIdentification');
       
       // Almacenamos la sesion
-      store.set('sesionId', '1/A129898FB878NF9898999999NB9TPQ')
-      $("#sesion").text('Sesion obtenida: ' + store.get('sesionId'));
+      store.set('sesionId', '1/A129898FB878NF9898999999NB9TPF')
+      //$("#sesion").text('Sesion obtenida: ' + store.get('sesionId'));
+      
+      // Borramos la vista
+      this.remove();
+      
+      // Navegamos a la busqueda
+      Backbone.history.navigate('/busqueda', true);
     }
   });
 
