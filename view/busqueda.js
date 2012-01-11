@@ -8,17 +8,37 @@
     },
     events: {
       "click #busquedabt": "Busqueda",
-      "click #Destino": "showBoxDestino",
-      "click img.cerrar_box": "hideBoxDestino",
+      "click img#jt_buttondst": "showBoxDestino",
+      "click img#jt_buttonori": "showBoxOrigen",
+      "click img#jt_buttonfecha": "showBoxFecha",
     },
     render: function () {
         var template = '\
-            <table><tr><td>Destino</td></tr><tr>\
-            <td><input type="text" name="Destino" id="Destino" value="{{ destino }}" size="15" maxlength="30" readonly="readonly"></td>\
-            </tr><tr><td>Password</td>\
-            </tr></table>\
-            <button id="busquedabt">Buscar</button>\
-            <div class="box"><img class="cerrar_box" src="./resources/img/cerrar_ico.png" alt="Cerrar" /><div id="textBox" class="txt_box"></div></div>\
+            <table>\
+            <tr>\
+            <td>Destino</td>\
+            <td><img class="jt_button" id="jt_buttondst" src="./resources/img/button-red.png" alt="Obligatorio" /></td>\
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;<jt_destino id="jt_busquedadest"></jt_destino></td>\
+            </tr>\
+            <tr>\
+            <td>Origen</td>\
+            <td><img class="jt_button" id="jt_buttonori" src="./resources/img/button-red.png" alt="Obligatorio" /></td>\
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;<jt_origen id="jt_busquedaori"></jt_origen></td>\
+            </tr>\
+            <tr>\
+            <td>Fecha Salida</td>\
+            <td><img class="jt_button" id="jt_buttonfecha" src="./resources/img/button-red.png" alt="Obligatorio" /></td>\
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;<jt_fecha id="jt_busquedafecha"></jt_fecha></td>\
+            </tr>\
+            <tr>\
+            <td>Noches</td>\
+            <td><select><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option>\
+            <option value="5">5</option><option value="6">6</option><option value="7" selected="selected">7</option></select></td>\
+            <td>&nbsp;</td>\
+            </tr>\
+            <tr><td align="center"><button id="busquedabt">Buscar</button></td><td>&nbsp;</td><td>&nbsp;</td></tr>\
+            </table>\
+            \
         ';
     
         this.el.innerHTML = Mustache.to_html(template, this.criterios.at(0).attributes);
@@ -34,57 +54,30 @@
     showBoxDestino: function () {
       // Navegamos a la consulta de producto
       var catalogo = new jtCatalogo();
-      //alert(JSON.stringify(catalogo.obtenerDestinos()));
       
-      var htmlbox = '';
-      $(".box").show("slow");
-      $.each(catalogo.obtenerDestinos() , function(k, v) {
-        if ( k == 'arrayofarea' ) {
-            $.each(v , function(i, j) {
-                if ( i == 'area' ) {
-                    $.each(j , function(a, b) {
-                        if ( a == 'subareas') {
-                            $.each(b , function(c, d) {
-                                if ( c == 'subarea') {
-                                    $.each(d , function(e, f) {
-                                        //if (e == 'Nom') $("#textBox").html(JSON.stringify(f));
-                                        if (e == 'destinos') {
-                                            $.each(f , function(g, h) {
-                                                if (g == 'destino') {
-                                                    $.each(h , function(k, l) {
-                                                        if (k == 'nom') htmlbox +='<b>' + l + '</b><br/>';
-                                                        if (k == 'dcps') {
-                                                            $.each(l , function(m, n) {
-                                                                if (m=='dcp') {
-                                                                    htmlbox += '';
-                                                                    $.each(n , function(o, p) {
-                                                                        //alert( "Key: " + o + ", Value: " + p );
-                                                                        if (o == 'nom') {
-                                                                            htmlbox += '<div class="opcion_box"><u>' + p + '</u></div><br/>';
-                                                                        }
-                                                                    });
-                                                                    htmlbox += '';
-                                                                }
-                                                            });
-                                                        }
-                                                    });
-                                                }
-                                            });
-                                        }
-                                    });
-                                }
-                            });
-                        }
-                    });
-                }
-            });
-        }
-      });
-      $("#textBox").html(htmlbox);
+      // Instanciamos y mostramos la ventana de destinos
+      var boxViewdst = new jt_boxView();
+      $('body').append(boxViewdst.render().el);
+      boxViewdst.showBox('DESTINO', $('#jt_busquedadest'), $('img#jt_buttondst'));
     },
-    hideBoxDestino: function () {
-      // Escondemos la ventana de destinos
-      $(".box").hide(2000);
+    showBoxOrigen: function () {
+      // Navegamos a la consulta de producto
+      var catalogo = new jtCatalogo();
+      
+      // Instanciamos y mostramos la ventana de origenes
+      var boxViewori = new jt_boxView();
+      $('body').append(boxViewori.render().el);
+      boxViewori.showBox('ORIGEN', $('#jt_busquedaori'), $('img#jt_buttonori'));
+    },
+    showBoxFecha: function () {
+        // Instanciamos y mostramos la ventana de destinos
+        var dateView = new jt_dateView($('#jt_busquedafecha'), $('img#jt_buttonfecha'));
+        $('body').append(dateView.render().el);
+        var $calendars = $(".jsCalendar");
+		for (var i = 0, maxI = $calendars.length; i < maxI; i++) {
+			var calendar = new jt_calendar();
+			calendar.ready($calendars.eq(i));
+		}
     }
   });
 

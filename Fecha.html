@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Demo API OTA</title>
+
+        <!-- css -->
+  		<link rel="stylesheet" href="./resources/css/jt_box.css" type="text/css" media="screen" />
+  		<link rel="stylesheet" href="./resources/css/jt_date.css" type="text/css" media="screen" />
+
+        <!-- libs -->
+        <script src="./lib/zepto.js"></script>
+        <script src="./lib/underscore.js"></script>
+        <script src="./lib/backbone.js"></script>
+        <script src="./lib/mustache.js"></script>
+        <script src="./lib/customModernizr.js"></script>
+        <script src="./lib/calendar.js"></script>
+
+        <!-- Ventana -->
+        <script src="./view/jt_dateView.js"></script>
+
+        <script>
+            $(document).ready(function() {
+                var dateView = new jt_dateView();
+                $('body').append(dateView.render().el);
+                var $calendars = $(".jsCalendar");
+				for (var i = 0, maxI = $calendars.length; i < maxI; i++) {
+					var calendar = new jt_calendar();
+					calendar.ready($calendars.eq(i));
+				}
+            });
+        </script>
+
+    </head>
+    <body>
+
+    </body>
+</html>

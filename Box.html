@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Demo API OTA</title>
+
+        <!-- css -->
+  		<link rel="stylesheet" href="./resources/css/jt_box.css" type="text/css" media="screen" />
+
+        <!-- libs -->
+        <script src="./lib/zepto.js"></script>
+        <script src="./lib/underscore.js"></script>
+        <script src="./lib/backbone.js"></script>
+        <script src="./lib/mustache.js"></script>
+        <script src="./lib/store.js"></script>
+        <script src="./lib/mock.js"></script>
+
+        <script src="./lib/xmltojson.js"></script>
+
+        <!-- utils -->
+        <script src="./utils/conector.js"></script>
+        <script src="./utils/catalogo.js"></script>
+
+
+        <!-- Opciones -->
+        <script src="./model/jt_optionBox.js"></script>
+        <script src="./collection/jt_optionBoxList.js"></script>
+        <script src="./view/jt_optionView.js"></script>
+
+        <!-- Ventana -->
+        <script src="./view/jt_boxView.js"></script>
+
+        <script>
+            $(document).ready(function() {
+                var boxView = new jt_boxView();
+                $('body').append(boxView.render().el);
+                boxView.showBox($('#jt_busquedadest'));
+            });
+        </script>
+
+    </head>
+    <body>
+    	<p id='jt_busquedadest'></p>
+    </body>
+</html>

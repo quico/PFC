@@ -3,54 +3,9 @@
     <head>
         <title>Demo API OTA</title>
         
-        <style>
-            .box {
-                /* basic styling */
-                width: 249px;
-                border: 1px solid #555;
-                font: 14px Arial;
-                background: none repeat scroll 0 0 #09A;
-                top: 5%;
-                left: 5%;
-                position: absolute;
-                
-
-                /* flexbox setup */
-                display: -webkit-box;
-                -webkit-box-orient: horizontal;
-
-                display: -moz-box;
-                -moz-box-orient: horizontal;
-                -moz-transition: opacity 500ms ease-in;
-
-                display: box;
-                box-orient: horizontal;
-                
-                display: none;
-            }
-            .cerrar_box {
-                position: relative;
-                left:95%;
-            }
-            .cerrar_box:hover {
-	            border: solid 1px #CCC;
-	            -moz-box-shadow: 1px 1px 5px #999;
-	            -webkit-box-shadow: 1px 1px 5px #999;
-                box-shadow: 1px 1px 5px #999;
-                cursor: pointer;
-            }
-            .txt_box {
-                background: none repeat scroll 0 0 #999999;
-            }
-            .opcion_box {
-                position: relative;
-                left:5%;
-            }
-            .opcion_box:hover {
-                cursor: pointer;
-            }
-
-        </style>
+        <!-- css -->
+  		<link rel="stylesheet" href="./resources/css/jt_box.css" type="text/css" media="screen" />
+  		<link rel="stylesheet" href="./resources/css/jt_date.css" type="text/css" media="screen" />
         
         <!-- libs -->
         <script src="./lib/zepto.js"></script>
@@ -61,7 +16,8 @@
         <!-- <script src="./lib/ICanHaz.js"></script> -->
         <script src="./lib/store.js"></script>
         <script src="./lib/mock.js"></script>
-        
+        <script src="./lib/customModernizr.js"></script>
+        <script src="./lib/calendar.js"></script>
         <script src="./lib/xmltojson.js"></script>
         
         <!-- utils -->
@@ -81,6 +37,16 @@
         <script src="./collection/busqueda.js"></script>
         <script src="./view/busqueda.js"></script>
         
+        <!-- Opciones -->
+        <script src="./model/jt_optionBox.js"></script>
+        <script src="./collection/jt_optionBoxList.js"></script>
+        <script src="./view/jt_optionView.js"></script>
+        
+        <!-- Ventana -->
+        <!-- Destino y Origen -->
+        <script src="./view/jt_boxView.js"></script>
+        <!-- Fecha -->
+        <script src="./view/jt_dateView.js"></script>
         
         <!-- Templates
         <script id="Identificacion" type="text/html">
