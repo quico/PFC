@@ -4,7 +4,6 @@
     tagName : "div",
     initialize: function () {
       this.criterios = new BusquedaList(new BusquedaModel());
-      //alert(JSON.stringify(this.usuarios));
     },
     events: {
       "click #busquedabt": "Busqueda",
@@ -36,6 +35,7 @@
             <option value="5">5</option><option value="6">6</option><option value="7" selected="selected">7</option></select></td>\
             <td>&nbsp;</td>\
             </tr>\
+            <tr><td colspan="3" class="jt_habitacion">Habitaciones<div class="jt_habitacion"><ul id="jt_hab-list"></ul></div></td></tr>\
             <tr><td align="center"><button id="busquedabt">Buscar</button></td><td>&nbsp;</td><td>&nbsp;</td></tr>\
             </table>\
             \
@@ -44,12 +44,15 @@
         this.el.innerHTML = Mustache.to_html(template, this.criterios.at(0).attributes);
         $('title').text('Demo API OTA - Busqueda');
         //$("#sesion").text('Sesion obtenida: ' + store.get('sesionId'));
+        
         return this;
     },
     Busqueda: function () {           
-      // Navegamos a la consulta de producto
-      $(".box").hide(2000);
-      //Backbone.history.navigate('/consulta', true);
+      // Borramos la vista
+      this.remove();
+      
+      // Navegamos a la consulta
+      Backbone.history.navigate('/consulta', true);
     },
     showBoxDestino: function () {
       // Navegamos a la consulta de producto
@@ -78,6 +81,14 @@
 			var calendar = new jt_calendar();
 			calendar.ready($calendars.eq(i));
 		}
+    },
+    showHabitaciones: function () {
+        var habView1 = new jt_habView(1);
+        $("#jt_hab-list").append(habView1.render().el);
+        var habView2 = new jt_habView(2);
+        $("#jt_hab-list").append(habView2.render().el);
+        var habView3 = new jt_habView(3);
+        $("#jt_hab-list").append(habView3.render().el);
     }
   });
 

@@ -42,7 +42,9 @@
 .jt_button:hover {
 	cursor: pointer;
 }
-
+.jt_habitacion {
+	background: none repeat scroll 0 0 #EFFFFF;
+}
 
 opcion[data-tooltip] {
 	cursor:pointer !important;

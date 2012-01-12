@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Demo API OTA</title>
+
+        <!-- css -->
+  		<link rel="stylesheet" href="./resources/css/jt_box.css" type="text/css" media="screen" />
+
+        <!-- libs -->
+        <script src="./lib/zepto.js"></script>
+        <script src="./lib/underscore.js"></script>
+        <script src="./lib/backbone.js"></script>
+        <script src="./lib/mustache.js"></script>
+        <script src="./lib/store.js"></script>
+        <script src="./lib/mock.js"></script>
+
+        <script src="./lib/xmltojson.js"></script>
+
+        <!-- utils -->
+        <script src="./utils/conector.js"></script>
+        <script src="./utils/catalogo.js"></script>
+
+
+        <!-- Habitaciones -->
+        <script src="./model/jt_hab.js"></script>
+        <script src="./collection/jt_habList.js"></script>
+        <script src="./view/jt_habView.js"></script>
+
+        <script>
+            $(document).ready(function() {
+            	//var habitaciones = new jt_habList();
+                var habView1 = new jt_habView(1);
+                $("#jt_hab-list").append(habView1.render().el);
+                var habView2 = new jt_habView(2);
+                $("#jt_hab-list").append(habView2.render().el);
+                var habView3 = new jt_habView(3);
+                $("#jt_hab-list").append(habView3.render().el);
+            });
+        </script>
+
+    </head>
+    <body>
+    	<div class="jt_habitacion"><ul id="jt_hab-list"></ul></div>
+    </body>
+</html>

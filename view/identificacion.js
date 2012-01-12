@@ -2,7 +2,6 @@
    
   window.IdentificationView = Backbone.View.extend({
     tagName : "div",
-    //el: $("body"),
     initialize: function () {
       this.usuarios = new IdentificacionList(new IdentificacionModel());
       //alert(JSON.stringify(this.usuarios));
