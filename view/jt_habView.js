@@ -23,7 +23,7 @@
         template += '<option value="5">5</option>';
         template += '<option value="6">6</option>';
         template += '</select></td>';
-        template += '<td>Niños:</td>';
+        template += '<td>Ni&ntilde;os:</td>';
 	template += '<td><select id="jt_hab-ninyo" class="jt_hab-ninyo">';
 	template += '<option value="0" selected="selected">0</option>';
 	template += '<option value="1">1</option>';

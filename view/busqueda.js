@@ -4,6 +4,7 @@
     tagName : "div",
     initialize: function () {
       this.criterios = new BusquedaList(new BusquedaModel());
+      //alert(JSON.stringify(this.usuarios));
     },
     events: {
       "click #busquedabt": "Busqueda",
@@ -44,7 +45,6 @@
         this.el.innerHTML = Mustache.to_html(template, this.criterios.at(0).attributes);
         $('title').text('Demo API OTA - Busqueda');
         //$("#sesion").text('Sesion obtenida: ' + store.get('sesionId'));
-        
         return this;
     },
     Busqueda: function () {           
@@ -87,8 +87,6 @@
         $("#jt_hab-list").append(habView1.render().el);
         var habView2 = new jt_habView(2);
         $("#jt_hab-list").append(habView2.render().el);
-        var habView3 = new jt_habView(3);
-        $("#jt_hab-list").append(habView3.render().el);
     }
   });
 
